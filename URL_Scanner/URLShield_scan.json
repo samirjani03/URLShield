@@ -1,0 +1,1168 @@
+{
+  "input": "atozcyber.co.in",
+  "type": "url",
+  "scan_timestamp": "2026-03-03T11:46:26.774008",
+  "host": "atozcyber.co.in",
+  "normalized_target": "atozcyber.co.in",
+  "scope": "Active (safe)",
+  "dns": {
+    "A": [
+      "89.117.188.160"
+    ],
+    "AAAA": [
+      "2a02:4780:11:1048:0:3811:19ef:2"
+    ],
+    "MX": [
+      "5 mx1.hostinger.com.",
+      "10 mx2.hostinger.com."
+    ],
+    "NS": [
+      "ns1.dns-parking.com.",
+      "ns2.dns-parking.com."
+    ],
+    "TXT": [
+      "\"v=spf1 include:_spf.mail.hostinger.com ~all\""
+    ],
+    "CNAME": []
+  },
+  "links": [
+    "https://atozcyber.co.in/#content",
+    "https://atozcyber.co.in/",
+    "https://atozcyber.co.in/#",
+    "https://atozcyber.co.in/",
+    "https://atozcyber.co.in/cyber-study/",
+    "https://atozcyber.co.in/digital-forensics/",
+    "https://atozcyber.co.in/mobile-forensics-2/",
+    "https://atozcyber.co.in/android-forensics-2/",
+    "https://atozcyber.co.in/ios-forensics/",
+    "https://atozcyber.co.in/cloud-forensics/",
+    "https://atozcyber.co.in/aws-forensics/",
+    "https://atozcyber.co.in/azure-forensics/",
+    "https://atozcyber.co.in/dark-web-tor-forensics/",
+    "https://atozcyber.co.in/web-forensics/",
+    "https://atozcyber.co.in/email-forensics/",
+    "https://atozcyber.co.in/database-forensics/",
+    "https://atozcyber.co.in/network-forensics/",
+    "https://atozcyber.co.in/dvr-forensics/",
+    "https://atozcyber.co.in/iot-forensics/",
+    "https://atozcyber.co.in/cryptocurrency-forensics/",
+    "https://atozcyber.co.in/crime-scene-forensics/",
+    "https://atozcyber.co.in/ethical-hacking/",
+    "https://atozcyber.co.in/cyber-study/vapt/",
+    "https://atozcyber.co.in/web-vapt/",
+    "https://atozcyber.co.in/android-vapt/",
+    "https://atozcyber.co.in/malware-analysis/",
+    "https://atozcyber.co.in/cyber-study/soc/",
+    "https://atozcyber.co.in/network-security/",
+    "https://atozcyber.co.in/firewall/",
+    "https://atozcyber.co.in/palo-alto-2/",
+    "https://atozcyber.co.in/cyber-study/security-audit/",
+    "https://atozcyber.co.in/cyber-study/ctf/",
+    "https://atozcyber.co.in/cyber-jobs/",
+    "https://atozcyber.co.in/police-investigation-live-tools/",
+    "https://atozcyber.co.in/law-enforcement-social-media-link/",
+    "https://atozcyber.co.in/all-social-media-tools/",
+    "https://atozcyber.co.in/best-leak-data-analysis/",
+    "https://atozcyber.co.in/to-check-imei/",
+    "https://atozcyber.co.in/sms-header-search-portal/",
+    "https://atozcyber.co.in/large-text-file-analysis/",
+    "https://atozcyber.co.in/tor-ip-detection/",
+    "https://atozcyber.co.in/virtual-number-checker/",
+    "https://atozcyber.co.in/good-log-analyis-tool/",
+    "https://atozcyber.co.in/cloudflare-resolver-tool/",
+    "https://atozcyber.co.in/criminal-device-info/",
+    "https://atozcyber.co.in/ip-grabbing-and-track/",
+    "https://atozcyber.co.in/ifsc-micr-code-banks/",
+    "https://atozcyber.co.in/reverse-image-look-up-tools/",
+    "https://atozcyber.co.in/domain-and-ip-bulk-lookup-tool/",
+    "https://atozcyber.co.in/phone-pe-law-enforcement/",
+    "https://atozcyber.co.in/search-discord-server-by-keyword/",
+    "https://atozcyber.co.in/sim-issued-on-number/",
+    "https://atozcyber.co.in/all-social-media-tools/",
+    "https://atozcyber.co.in/criminal-device-info/",
+    "https://atozcyber.co.in/cryptocurrency-binance-law-enforcement-portal/",
+    "https://atozcyber.co.in/domain-and-ip-bulk-lookup-tool/",
+    "https://atozcyber.co.in/live-cyber-attacks/",
+    "https://atozcyber.co.in/",
+    "https://atozcyber.co.in/cyber-study/",
+    "https://atozcyber.co.in/digital-forensics/",
+    "https://atozcyber.co.in/mobile-forensics-2/",
+    "https://atozcyber.co.in/android-forensics-2/",
+    "https://atozcyber.co.in/ios-forensics/",
+    "https://atozcyber.co.in/cloud-forensics/",
+    "https://atozcyber.co.in/aws-forensics/",
+    "https://atozcyber.co.in/azure-forensics/",
+    "https://atozcyber.co.in/dark-web-tor-forensics/",
+    "https://atozcyber.co.in/web-forensics/",
+    "https://atozcyber.co.in/email-forensics/",
+    "https://atozcyber.co.in/database-forensics/",
+    "https://atozcyber.co.in/network-forensics/",
+    "https://atozcyber.co.in/dvr-forensics/",
+    "https://atozcyber.co.in/iot-forensics/",
+    "https://atozcyber.co.in/cryptocurrency-forensics/",
+    "https://atozcyber.co.in/crime-scene-forensics/",
+    "https://atozcyber.co.in/ethical-hacking/",
+    "https://atozcyber.co.in/cyber-study/vapt/",
+    "https://atozcyber.co.in/web-vapt/",
+    "https://atozcyber.co.in/android-vapt/",
+    "https://atozcyber.co.in/malware-analysis/",
+    "https://atozcyber.co.in/cyber-study/soc/",
+    "https://atozcyber.co.in/network-security/",
+    "https://atozcyber.co.in/firewall/",
+    "https://atozcyber.co.in/palo-alto-2/",
+    "https://atozcyber.co.in/cyber-study/security-audit/",
+    "https://atozcyber.co.in/cyber-study/ctf/",
+    "https://atozcyber.co.in/cyber-jobs/",
+    "https://atozcyber.co.in/police-investigation-live-tools/",
+    "https://atozcyber.co.in/law-enforcement-social-media-link/",
+    "https://atozcyber.co.in/all-social-media-tools/",
+    "https://atozcyber.co.in/best-leak-data-analysis/",
+    "https://atozcyber.co.in/to-check-imei/",
+    "https://atozcyber.co.in/sms-header-search-portal/",
+    "https://atozcyber.co.in/large-text-file-analysis/",
+    "https://atozcyber.co.in/tor-ip-detection/",
+    "https://atozcyber.co.in/virtual-number-checker/",
+    "https://atozcyber.co.in/good-log-analyis-tool/",
+    "https://atozcyber.co.in/cloudflare-resolver-tool/",
+    "https://atozcyber.co.in/criminal-device-info/",
+    "https://atozcyber.co.in/ip-grabbing-and-track/",
+    "https://atozcyber.co.in/ifsc-micr-code-banks/",
+    "https://atozcyber.co.in/reverse-image-look-up-tools/",
+    "https://atozcyber.co.in/domain-and-ip-bulk-lookup-tool/",
+    "https://atozcyber.co.in/phone-pe-law-enforcement/",
+    "https://atozcyber.co.in/search-discord-server-by-keyword/",
+    "https://atozcyber.co.in/sim-issued-on-number/",
+    "https://atozcyber.co.in/all-social-media-tools/",
+    "https://atozcyber.co.in/criminal-device-info/",
+    "https://atozcyber.co.in/cryptocurrency-binance-law-enforcement-portal/",
+    "https://atozcyber.co.in/domain-and-ip-bulk-lookup-tool/",
+    "https://atozcyber.co.in/live-cyber-attacks/",
+    "https://atozcyber.co.in/police-investigation-live-tools/",
+    "https://atozcyber.co.in",
+    "https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/system-hacking/",
+    "https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/ransomware/",
+    "https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/digital-arrest-scams/",
+    "https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/call-spoofing/",
+    "https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/call-merging-scam/",
+    "https://www.cybersecurityjobs.com/",
+    "https://atozcyber.co.in/",
+    "https://atozcyber.co.in/digital-forensics/",
+    "https://atozcyber.co.in/digital-forensics/",
+    "https://atozcyber.co.in/osint/",
+    "https://atozcyber.co.in/osint/",
+    "https://atozcyber.co.in/",
+    "https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/system-hacking/",
+    "https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/ransomware/",
+    "https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/digital-arrest-scams/",
+    "https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/call-spoofing/",
+    "https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/call-merging-scam/",
+    "https://atozcyber.co.in/",
+    "https://atozcyber.co.in/#"
+  ],
+  "scripts": [
+    "https://atozcyber.co.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://atozcyber.co.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "https://atozcyber.co.in/wp-content/themes/education-lms/assets/js/slick.min.js?ver=1.8",
+    "https://atozcyber.co.in/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.35.0-dev4",
+    "https://atozcyber.co.in/wp-content/plugins/learnpress/assets/js/dist/loadAJAX.min.js?ver=4.3.2.8",
+    "https://atozcyber.co.in/wp-content/plugins/hostinger-reach/frontend/dist/blocks/subscription-view.js?ver=1772165181",
+    "https://atozcyber.co.in/wp-content/themes/education-lms/assets/js/custom.js?ver=6.9.1",
+    "https://atozcyber.co.in/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1",
+    "https://atozcyber.co.in/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375",
+    "https://atozcyber.co.in/wp-includes/js/dist/url.min.js?ver=9e178c9516d1222dc834",
+    "https://atozcyber.co.in/wp-includes/js/dist/api-fetch.min.js?ver=3a4d9af2b423048b0dee",
+    "https://atozcyber.co.in/wp-content/plugins/learnpress-import-export/assets/dist/js/frontend/learnpress-import-export-global.min.js?ver=4.1.2",
+    "https://atozcyber.co.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.35.0-dev4",
+    "https://atozcyber.co.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.35.0-dev4",
+    "https://atozcyber.co.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+    "https://atozcyber.co.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.35.0-dev4",
+    "https://atozcyber.co.in/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1",
+    "https://stats.wp.com/e-202610.js"
+  ],
+  "script_details": {
+    "https://atozcyber.co.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.1": {
+      "url": "https://atozcyber.co.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    },
+    "https://atozcyber.co.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1": {
+      "url": "https://atozcyber.co.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    },
+    "https://atozcyber.co.in/wp-content/themes/education-lms/assets/js/slick.min.js?ver=1.8": {
+      "url": "https://atozcyber.co.in/wp-content/themes/education-lms/assets/js/slick.min.js?ver=1.8",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    },
+    "https://atozcyber.co.in/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.35.0-dev4": {
+      "url": "https://atozcyber.co.in/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.35.0-dev4",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    },
+    "https://atozcyber.co.in/wp-content/plugins/learnpress/assets/js/dist/loadAJAX.min.js?ver=4.3.2.8": {
+      "url": "https://atozcyber.co.in/wp-content/plugins/learnpress/assets/js/dist/loadAJAX.min.js?ver=4.3.2.8",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    },
+    "https://atozcyber.co.in/wp-content/plugins/hostinger-reach/frontend/dist/blocks/subscription-view.js?ver=1772165181": {
+      "url": "https://atozcyber.co.in/wp-content/plugins/hostinger-reach/frontend/dist/blocks/subscription-view.js?ver=1772165181",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    },
+    "https://atozcyber.co.in/wp-content/themes/education-lms/assets/js/custom.js?ver=6.9.1": {
+      "url": "https://atozcyber.co.in/wp-content/themes/education-lms/assets/js/custom.js?ver=6.9.1",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    },
+    "https://atozcyber.co.in/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1": {
+      "url": "https://atozcyber.co.in/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    },
+    "https://atozcyber.co.in/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375": {
+      "url": "https://atozcyber.co.in/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    },
+    "https://atozcyber.co.in/wp-includes/js/dist/url.min.js?ver=9e178c9516d1222dc834": {
+      "url": "https://atozcyber.co.in/wp-includes/js/dist/url.min.js?ver=9e178c9516d1222dc834",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    },
+    "https://atozcyber.co.in/wp-includes/js/dist/api-fetch.min.js?ver=3a4d9af2b423048b0dee": {
+      "url": "https://atozcyber.co.in/wp-includes/js/dist/api-fetch.min.js?ver=3a4d9af2b423048b0dee",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    },
+    "https://atozcyber.co.in/wp-content/plugins/learnpress-import-export/assets/dist/js/frontend/learnpress-import-export-global.min.js?ver=4.1.2": {
+      "url": "https://atozcyber.co.in/wp-content/plugins/learnpress-import-export/assets/dist/js/frontend/learnpress-import-export-global.min.js?ver=4.1.2",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    },
+    "https://atozcyber.co.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.35.0-dev4": {
+      "url": "https://atozcyber.co.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.35.0-dev4",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    },
+    "https://atozcyber.co.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.35.0-dev4": {
+      "url": "https://atozcyber.co.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.35.0-dev4",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    },
+    "https://atozcyber.co.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3": {
+      "url": "https://atozcyber.co.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    },
+    "https://atozcyber.co.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.35.0-dev4": {
+      "url": "https://atozcyber.co.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.35.0-dev4",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    },
+    "https://atozcyber.co.in/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1": {
+      "url": "https://atozcyber.co.in/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    },
+    "https://stats.wp.com/e-202610.js": {
+      "url": "https://stats.wp.com/e-202610.js",
+      "introduced_by": "ScriptElement",
+      "embedded": true,
+      "first_seen": "2026-03-03",
+      "last_seen": "2026-03-03",
+      "times_seen": 1
+    }
+  },
+  "iframes": [],
+  "embeds": [],
+  "final_url": "https://atozcyber.co.in/",
+  "redirect_chain": [
+    "https://atozcyber.co.in/"
+  ],
+  "headers": {
+    "Connection": "Keep-Alive",
+    "Keep-Alive": "timeout=5, max=100",
+    "x-powered-by": "PHP/8.4.3",
+    "Content-Type": "text/html; charset=UTF-8",
+    "link": "<https://atozcyber.co.in/wp-json/>; rel=\"https://api.w.org/\", <https://atozcyber.co.in/wp-json/wp/v2/pages/707>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://atozcyber.co.in/>; rel=shortlink",
+    "etag": "\"5-1772456012;gz\"",
+    "X-LiteSpeed-Cache": "hit",
+    "Transfer-Encoding": "chunked",
+    "Content-Encoding": "gzip",
+    "Vary": "Accept-Encoding",
+    "Date": "Tue, 03 Mar 2026 11:46:11 GMT",
+    "Server": "LiteSpeed",
+    "platform": "hostinger",
+    "panel": "hpanel",
+    "Content-Security-Policy": "upgrade-insecure-requests",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\""
+  },
+  "html": "<!doctype html>\r\n<html lang=\"en-US\">\r\n<head>\r\n\t<meta charset=\"UTF-8\">\r\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n\t<link rel=\"profile\" href=\"http://gmpg.org/xfn/11\">\r\n\r\n\t<script type=\"text/javascript\" id=\"lpData\">\n/* <![CDATA[ */\nvar lpData = {\"site_url\":\"https:\\/\\/atozcyber.co.in\",\"user_id\":\"0\",\"theme\":\"education-lms\",\"lp_rest_url\":\"https:\\/\\/atozcyber.co.in\\/wp-json\\/\",\"nonce\":\"735a5a96ee\",\"is_course_archive\":\"\",\"courses_url\":\"https:\\/\\/atozcyber.co.in\\/courses\\/\",\"urlParams\":[],\"lp_version\":\"4.3.2.8\",\"lp_rest_load_ajax\":\"https:\\/\\/atozcyber.co.in\\/wp-json\\/lp\\/v1\\/load_content_via_ajax\\/\",\"ajaxUrl\":\"https:\\/\\/atozcyber.co.in\\/wp-admin\\/admin-ajax.php\",\"lpAjaxUrl\":\"https:\\/\\/atozcyber.co.in\\/lp-ajax-handle\",\"coverImageRatio\":\"5.16\",\"toast\":{\"gravity\":\"bottom\",\"position\":\"center\",\"duration\":3000,\"close\":1,\"stopOnFocus\":1,\"classPrefix\":\"lp-toast\"},\"i18n\":[]};\n/* ]]> */\n</script>\n<script type=\"text/javascript\" id=\"lpSettingCourses\">\n/* <![CDATA[ */\nvar lpSettingCourses = {\"lpArchiveLoadAjax\":\"1\",\"lpArchiveNoLoadAjaxFirst\":\"1\",\"lpArchivePaginationType\":\"load-more\",\"noLoadCoursesJs\":\"0\"};\n/* ]]> */\n</script>\n\t\t<style id=\"learn-press-custom-css\">\r\n\t\t\t:root {\r\n\t\t\t\t--lp-container-max-width: 1290px;\r\n\t\t\t\t--lp-cotainer-padding: 1rem;\r\n\t\t\t\t--lp-primary-color: #ffb606;\r\n\t\t\t\t--lp-secondary-color: #442e66;\r\n\t\t\t}\r\n\t\t</style>\r\n\t\t<title>Cyber Crime Investigation &#8211; @AtoZ Cyber Help For Society</title>\n<meta name='robots' content='max-image-preview:large' />\n<link rel='dns-prefetch' href='//stats.wp.com' />\n<link rel='dns-prefetch' href='//fonts.googleapis.com' />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Cyber Crime Investigation &raquo; Feed\" href=\"https://atozcyber.co.in/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Cyber Crime Investigation &raquo; Comments Feed\" href=\"https://atozcyber.co.in/comments/feed/\" />\n<link rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://atozcyber.co.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fatozcyber.co.in%2F\" />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://atozcyber.co.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fatozcyber.co.in%2F&#038;format=xml\" />\n<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>\nimg:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}\n/*# sourceURL=wp-img-auto-sizes-contain-inline-css */\n</style>\n\n<style id='wp-emoji-styles-inline-css' type='text/css'>\n\n\timg.wp-smiley, img.emoji {\n\t\tdisplay: inline !important;\n\t\tborder: none !important;\n\t\tbox-shadow: none !important;\n\t\theight: 1em !important;\n\t\twidth: 1em !important;\n\t\tmargin: 0 0.07em !important;\n\t\tvertical-align: -0.1em !important;\n\t\tbackground: none !important;\n\t\tpadding: 0 !important;\n\t}\n/*# sourceURL=wp-emoji-styles-inline-css */\n</style>\n<style id='classic-theme-styles-inline-css' type='text/css'>\n/*! This file is auto-generated */\n.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}\n/*# sourceURL=/wp-includes/css/classic-themes.min.css */\n</style>\n<link rel='stylesheet' id='mediaelement-css' href='https://atozcyber.co.in/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />\n<link rel='stylesheet' id='wp-mediaelement-css' href='https://atozcyber.co.in/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.9.1' type='text/css' media='all' />\n<style id='jetpack-sharing-buttons-style-inline-css' type='text/css'>\n.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}\n/*# sourceURL=https://atozcyber.co.in/wp-content/plugins/jetpack/_inc/blocks/sharing-buttons/view.css */\n</style>\n<style id='global-styles-inline-css' type='text/css'>\n:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}\n:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}\n:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}\n:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}\n:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}\n/*# sourceURL=global-styles-inline-css */\n</style>\n<link rel='stylesheet' id='hostinger-reach-subscription-block-css' href='https://atozcyber.co.in/wp-content/plugins/hostinger-reach/frontend/dist/blocks/subscription.css?ver=1772165181' type='text/css' media='all' />\n<link rel='stylesheet' id='education-lms-fonts-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400i%2C700%2C700i%7CMontserrat%3A300%2C400%2C600%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />\n<link rel='stylesheet' id='bootstrap-css' href='https://atozcyber.co.in/wp-content/themes/education-lms/assets/css/bootstrap.min.css?ver=4.0.0' type='text/css' media='' />\n<link rel='stylesheet' id='slick-css' href='https://atozcyber.co.in/wp-content/themes/education-lms/assets/css/slick.css?ver=1.8' type='text/css' media='' />\n<link rel='stylesheet' id='font-awesome-css' href='https://atozcyber.co.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />\n<link rel='stylesheet' id='education-lms-style-css' href='https://atozcyber.co.in/wp-content/themes/education-lms/style.css?ver=6.9.1' type='text/css' media='all' />\n<style id='education-lms-style-inline-css' type='text/css'>\n\r\n\t        button, input[type=\"button\"], input[type=\"reset\"], input[type=\"submit\"],\r\n\t\t    .titlebar .triangled_colored_separator,\r\n\t\t    .widget-area .widget-title::after,\r\n\t\t    .carousel-wrapper h2.title::after,\r\n\t\t    .course-item .course-thumbnail .price,\r\n\t\t    .site-footer .footer-social,\r\n\t\t    .single-lp_course .lp-single-course ul.learn-press-nav-tabs .course-nav.active,\r\n\t\t    .single-lp_course .lp-single-course ul.learn-press-nav-tabs .course-nav:hover,\r\n\t\t    .widget_tag_cloud a:hover,\r\n\t\t    .header-top .header-contact-wrapper .btn-secondary,\r\n            .header-type3 .header-top .header-contact-wrapper .box-icon,\r\n            a.btn-all-courses:hover,\r\n            .course-grid-layout2 .intro-item:before,\r\n            .learnpress .learn-press-pagination .page-numbers > li span,\r\n            .courses-search-widget::after\r\n\t\t     { background: #ffb606; }\r\n\r\n            a:hover, a:focus, a:active,\r\n            .main-navigation a:hover,\r\n            .nav-menu ul li.current-menu-item a,\r\n            .nav-menu ul li a:hover,\r\n            .entry-title a:hover,\r\n            .main-navigation .current_page_item > a, .main-navigation .current-menu-item > a, .main-navigation .current_page_ancestor > a, .main-navigation .current-menu-ancestor > a,\r\n            .entry-meta span i,\r\n            .site-footer a:hover,\r\n            .blog .entry-header .entry-date, .archive .entry-header .entry-date,\r\n            .site-footer .copyright-area span,\r\n            .breadcrumbs a:hover span,\r\n            .carousel-wrapper .slick-arrow:hover:before,\r\n            .recent-post-carousel .post-item .btn-readmore:hover,\r\n            .recent-post-carousel .post-item .recent-news-meta span i,\r\n            .recent-post-carousel .post-item .entry-title a:hover,\r\n            .single-lp_course .course-info li i,\r\n            .search-form .search-submit,\r\n            .header-top .header-contact-wrapper li .box-icon i,\r\n            .course-grid-layout2 .intro-item .all-course a:hover,\r\n            .course-filter div.mixitup-control-active, .course-filter div:hover\r\n            {\r\n                color: #ffb606;\r\n            }\r\n\r\n\t\t    .recent-post-carousel .post-item .btn-readmore:hover,\r\n\t\t    .carousel-wrapper .slick-arrow:hover,\r\n\t\t    .single-lp_course .lp-single-course .course-curriculum ul.curriculum-sections .section-header,\r\n\t\t    .widget_tag_cloud a:hover,\r\n            .readmore a:hover,\r\n            a.btn-all-courses,\r\n            .learnpress .learn-press-pagination .page-numbers > li span,\r\n            .course-filter div.mixitup-control-active, .course-filter div:hover {\r\n                border-color: #ffb606;\r\n            }\r\n\t\t\t.container { max-width: 1225px; }\r\n\t\t    .site-branding .site-logo, .site-logo { max-width: 66px; }\r\n\t\t    \r\n\t\t    .topbar .cart-contents { color: #fff; }\r\n\t\t    .topbar .cart-contents i, .topbar .cart-contents { font-size: 13px; }\r\n\t\r\n\t\t .titlebar { background-color: #8224e3; padding-top: 2%; padding-bottom: 2%; background-image: url(https://localhost/wordpress/wp-content/uploads/2022/04/cropped-mscj-hub-case-study-banner-1200x400-1.jpg); background-repeat: no-repeat; background-size: cover; background-position: center center;  }\r\n\t\n/*# sourceURL=education-lms-style-inline-css */\n</style>\n<link rel='stylesheet' id='learnpress-import-export-global-css' href='https://atozcyber.co.in/wp-content/plugins/learnpress-import-export/assets/dist/css/frontend/learnpress-import-export-global.min.css?ver=4.1.2' type='text/css' media='all' />\n<link rel='stylesheet' id='elementor-frontend-css' href='https://atozcyber.co.in/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.35.0-dev4' type='text/css' media='all' />\n<link rel='stylesheet' id='elementor-post-7-css' href='https://atozcyber.co.in/wp-content/uploads/elementor/css/post-7.css?ver=1772165206' type='text/css' media='all' />\n<link rel='stylesheet' id='font-awesome-5-all-css' href='https://atozcyber.co.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.35.0-dev4' type='text/css' media='all' />\n<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://atozcyber.co.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.35.0-dev4' type='text/css' media='all' />\n<link rel='stylesheet' id='e-animation-grow-css' href='https://atozcyber.co.in/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.35.0-dev4' type='text/css' media='all' />\n<link rel='stylesheet' id='widget-icon-box-css' href='https://atozcyber.co.in/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.35.0-dev4' type='text/css' media='all' />\n<link rel='stylesheet' id='widget-heading-css' href='https://atozcyber.co.in/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.35.0-dev4' type='text/css' media='all' />\n<link rel='stylesheet' id='widget-counter-css' href='https://atozcyber.co.in/wp-content/plugins/elementor/assets/css/widget-counter.min.css?ver=3.35.0-dev4' type='text/css' media='all' />\n<link rel='stylesheet' id='widget-divider-css' href='https://atozcyber.co.in/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.35.0-dev4' type='text/css' media='all' />\n<link rel='stylesheet' id='e-animation-pulse-css' href='https://atozcyber.co.in/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.min.css?ver=3.35.0-dev4' type='text/css' media='all' />\n<link rel='stylesheet' id='elementor-post-707-css' href='https://atozcyber.co.in/wp-content/uploads/elementor/css/post-707.css?ver=1772165207' type='text/css' media='all' />\n<link rel='stylesheet' id='learnpress-widgets-css' href='https://atozcyber.co.in/wp-content/plugins/learnpress/assets/css/widgets.min.css?ver=4.3.2.8' type='text/css' media='all' />\n<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='http://atozcyber.co.in/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1739379830' type='text/css' media='all' />\n<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='http://atozcyber.co.in/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1739379837' type='text/css' media='all' />\n<link rel='stylesheet' id='elementor-gf-local-montserrat-css' href='http://atozcyber.co.in/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1739379848' type='text/css' media='all' />\n<script type=\"text/javascript\" src=\"https://atozcyber.co.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.1\" id=\"jquery-core-js\"></script>\n<script type=\"text/javascript\" src=\"https://atozcyber.co.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1\" id=\"jquery-migrate-js\"></script>\n<script type=\"text/javascript\" src=\"https://atozcyber.co.in/wp-content/themes/education-lms/assets/js/slick.min.js?ver=1.8\" id=\"slick-js\"></script>\n<script type=\"text/javascript\" src=\"https://atozcyber.co.in/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.35.0-dev4\" id=\"font-awesome-4-shim-js\"></script>\n<script type=\"text/javascript\" src=\"https://atozcyber.co.in/wp-content/plugins/learnpress/assets/js/dist/loadAJAX.min.js?ver=4.3.2.8\" id=\"lp-load-ajax-js\" async=\"async\" data-wp-strategy=\"async\"></script>\n<link rel=\"https://api.w.org/\" href=\"https://atozcyber.co.in/wp-json/\" /><link rel=\"alternate\" title=\"JSON\" type=\"application/json\" href=\"https://atozcyber.co.in/wp-json/wp/v2/pages/707\" /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://atozcyber.co.in/xmlrpc.php?rsd\" />\n<meta name=\"generator\" content=\"WordPress 6.9.1\" />\n<link rel=\"canonical\" href=\"https://atozcyber.co.in/\" />\n<link rel='shortlink' href='https://atozcyber.co.in/' />\n\t<style>img#wpstats{display:none}</style>\n\t\t<meta name=\"generator\" content=\"Elementor 3.35.0-dev4; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto\">\n\t\t\t<style>\n\t\t\t\t.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),\n\t\t\t\t.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {\n\t\t\t\t\tbackground-image: none !important;\n\t\t\t\t}\n\t\t\t\t@media screen and (max-height: 1024px) {\n\t\t\t\t\t.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),\n\t\t\t\t\t.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {\n\t\t\t\t\t\tbackground-image: none !important;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t\t@media screen and (max-height: 640px) {\n\t\t\t\t\t.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),\n\t\t\t\t\t.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {\n\t\t\t\t\t\tbackground-image: none !important;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t</style>\n\t\t\t</head>\r\n\r\n<body class=\"home wp-singular page-template page-template-fullwidth-template page-template-fullwidth-template-php page page-id-707 wp-embed-responsive wp-theme-education-lms elementor-beta elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-707\">\r\n\r\n<div id=\"page\" class=\"site\">\r\n\t<a class=\"skip-link screen-reader-text\" href=\"#content\">Skip to content</a>\r\n\r\n\t<header id=\"masthead\" class=\"site-header\">\r\n                    <div class=\"topbar\">\r\n                <div class=\"container\">\r\n                    <div class=\"row\">\r\n                        <div class=\"col-sm-6 topbar-left\">\r\n\t\t\t\t\t\t    <div id=\"custom_html-1\" class=\"widget_text  widget_custom_html\"><div class=\"textwidget custom-html-widget\"><ul class=\"top_bar_info clearfix\">\n\t<li><i class=\"fa fa-phone\"></i> Cyber Fraud Emergency Number 1930</li>\n<li class=\"hidden-info\"><i class=\"fa fa-map-marker\"></i> India</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t</ul></div></div>                        </div>\r\n                        <div class=\"col-sm-6 topbar-right hidden-xs\">\r\n\t\t\t\t\t\t                                <div class=\"header_login_url\">\r\n\t\t\t\t\t\t\t    \t\t\t\t\t\t\t\t    \t\t\t\t\t\t\t\t    \t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t                                </div>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n\t    \r\n        <div class=\"header-default\">\r\n            <div class=\"container\">\r\n                <div class=\"row\">\r\n                    <div class=\"col-md-5 col-lg-4\">\r\n                                <div class=\"site-branding\">\r\n\r\n            <div class=\"site-logo\">\r\n\t\t\t                </div>\r\n\r\n            <div>\r\n\t\t\t                        <h1 class=\"site-title\"><a href=\"https://atozcyber.co.in/\"\r\n                                              rel=\"home\">Cyber Crime Investigation</a></h1>\r\n\t\t\t\t                        <p class=\"site-description\">@AtoZ Cyber Help For Society</p>\r\n\t\t\t                </div>\r\n\r\n        </div><!-- .site-branding -->\r\n                            </div>\r\n\r\n                    <div class=\"col-lg-8 pull-right\">\r\n                                <a href=\"#\" class=\"mobile-menu\" id=\"mobile-open\"><span></span></a>\r\n        <nav id=\"site-navigation\" class=\"main-navigation\">\r\n\t\t    <div class=\"menu-main-menu-container\"><ul id=\"primary-menu\" class=\"menu\"><li id=\"menu-item-2365\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-707 current_page_item menu-item-2365\"><a href=\"https://atozcyber.co.in/\" aria-current=\"page\">Home</a></li>\n<li id=\"menu-item-2366\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2366\"><a href=\"https://atozcyber.co.in/cyber-study/\">Cyber Study</a>\n<ul class=\"sub-menu\">\n\t<li id=\"menu-item-2367\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2367\"><a href=\"https://atozcyber.co.in/digital-forensics/\">Digital Forensics</a>\n\t<ul class=\"sub-menu\">\n\t\t<li id=\"menu-item-2369\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2369\"><a href=\"https://atozcyber.co.in/mobile-forensics-2/\">Mobile Forensics</a>\n\t\t<ul class=\"sub-menu\">\n\t\t\t<li id=\"menu-item-2384\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2384\"><a href=\"https://atozcyber.co.in/android-forensics-2/\">Android Forensics</a></li>\n\t\t\t<li id=\"menu-item-2383\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2383\"><a href=\"https://atozcyber.co.in/ios-forensics/\">iOS Forensics</a></li>\n\t\t</ul>\n</li>\n\t\t<li id=\"menu-item-2373\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2373\"><a href=\"https://atozcyber.co.in/cloud-forensics/\">Cloud Forensics</a>\n\t\t<ul class=\"sub-menu\">\n\t\t\t<li id=\"menu-item-2371\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2371\"><a href=\"https://atozcyber.co.in/aws-forensics/\">AWS Forensics</a></li>\n\t\t\t<li id=\"menu-item-2370\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2370\"><a href=\"https://atozcyber.co.in/azure-forensics/\">Azure Forensics</a></li>\n\t\t</ul>\n</li>\n\t\t<li id=\"menu-item-2374\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2374\"><a href=\"https://atozcyber.co.in/dark-web-tor-forensics/\">Dark Web ToR Forensics</a></li>\n\t\t<li id=\"menu-item-2375\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2375\"><a href=\"https://atozcyber.co.in/web-forensics/\">Digital Evidence and Techniques</a></li>\n\t\t<li id=\"menu-item-2376\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2376\"><a href=\"https://atozcyber.co.in/email-forensics/\">Email Forensics</a></li>\n\t\t<li id=\"menu-item-2380\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2380\"><a href=\"https://atozcyber.co.in/database-forensics/\">Database Forensics</a></li>\n\t\t<li id=\"menu-item-2379\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2379\"><a href=\"https://atozcyber.co.in/network-forensics/\">Network Forensics</a></li>\n\t\t<li id=\"menu-item-2377\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2377\"><a href=\"https://atozcyber.co.in/dvr-forensics/\">DVR Forensics</a></li>\n\t\t<li id=\"menu-item-2378\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2378\"><a href=\"https://atozcyber.co.in/iot-forensics/\">IoT Forensics</a></li>\n\t\t<li id=\"menu-item-2382\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2382\"><a href=\"https://atozcyber.co.in/cryptocurrency-forensics/\">Cryptocurrency Forensics</a></li>\n\t\t<li id=\"menu-item-2381\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2381\"><a href=\"https://atozcyber.co.in/crime-scene-forensics/\">Crime Scene Forensics</a></li>\n\t</ul>\n</li>\n\t<li id=\"menu-item-3117\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-3117\"><a href=\"https://atozcyber.co.in/ethical-hacking/\">Ethical Hacking</a></li>\n\t<li id=\"menu-item-3119\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3119\"><a href=\"https://atozcyber.co.in/cyber-study/vapt/\">VAPT</a>\n\t<ul class=\"sub-menu\">\n\t\t<li id=\"menu-item-5515\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-5515\"><a href=\"https://atozcyber.co.in/web-vapt/\">Web Vapt</a></li>\n\t\t<li id=\"menu-item-5517\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-5517\"><a href=\"https://atozcyber.co.in/android-vapt/\">Android Vapt</a></li>\n\t</ul>\n</li>\n\t<li id=\"menu-item-2368\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2368\"><a href=\"https://atozcyber.co.in/malware-analysis/\">Malware Analysis</a></li>\n\t<li id=\"menu-item-3118\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-3118\"><a href=\"https://atozcyber.co.in/cyber-study/soc/\">Security Operational Center</a></li>\n\t<li id=\"menu-item-3116\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3116\"><a href=\"https://atozcyber.co.in/network-security/\">Network Security</a>\n\t<ul class=\"sub-menu\">\n\t\t<li id=\"menu-item-5346\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5346\"><a href=\"https://atozcyber.co.in/firewall/\">Important Modules</a>\n\t\t<ul class=\"sub-menu\">\n\t\t\t<li id=\"menu-item-5350\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5350\"><a href=\"https://atozcyber.co.in/palo-alto-2/\">Tools</a></li>\n\t\t</ul>\n</li>\n\t</ul>\n</li>\n\t<li id=\"menu-item-3115\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-3115\"><a href=\"https://atozcyber.co.in/cyber-study/security-audit/\">Security Audit</a></li>\n\t<li id=\"menu-item-5374\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5374\"><a href=\"https://atozcyber.co.in/cyber-study/ctf/\">CTF</a></li>\n</ul>\n</li>\n<li id=\"menu-item-2372\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2372\"><a href=\"https://atozcyber.co.in/cyber-jobs/\">Cyber Jobs</a></li>\n<li id=\"menu-item-2385\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2385\"><a target=\"_blank\" href=\"https://atozcyber.co.in/police-investigation-live-tools/\">OSINT Investigation Tools</a>\n<ul class=\"sub-menu\">\n\t<li id=\"menu-item-2387\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2387\"><a href=\"https://atozcyber.co.in/law-enforcement-social-media-link/\">Law Enforcement Portal</a></li>\n\t<li id=\"menu-item-2389\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2389\"><a href=\"https://atozcyber.co.in/all-social-media-tools/\">All Social Media Tools</a></li>\n\t<li id=\"menu-item-2390\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2390\"><a href=\"https://atozcyber.co.in/best-leak-data-analysis/\">Victim Helpful Portals</a></li>\n\t<li id=\"menu-item-2386\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2386\"><a href=\"https://atozcyber.co.in/to-check-imei/\">To check IMEI</a></li>\n\t<li id=\"menu-item-2388\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2388\"><a href=\"https://atozcyber.co.in/sms-header-search-portal/\">SMS Header Search Portal</a></li>\n\t<li id=\"menu-item-2391\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2391\"><a href=\"https://atozcyber.co.in/large-text-file-analysis/\">Large Text file Analysis</a></li>\n\t<li id=\"menu-item-2393\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2393\"><a href=\"https://atozcyber.co.in/tor-ip-detection/\">APP IP Detection</a></li>\n\t<li id=\"menu-item-2394\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2394\"><a href=\"https://atozcyber.co.in/virtual-number-checker/\">Virtual Number Checker</a></li>\n\t<li id=\"menu-item-2395\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2395\"><a href=\"https://atozcyber.co.in/good-log-analyis-tool/\">Good Log Analyis tool</a></li>\n\t<li id=\"menu-item-2396\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2396\"><a href=\"https://atozcyber.co.in/cloudflare-resolver-tool/\">Cloudflare Resolver tool</a></li>\n\t<li id=\"menu-item-2397\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2397\"><a href=\"https://atozcyber.co.in/criminal-device-info/\">Criminal Device Info</a></li>\n\t<li id=\"menu-item-2398\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2398\"><a href=\"https://atozcyber.co.in/ip-grabbing-and-track/\">IP Grabbing and Track</a></li>\n\t<li id=\"menu-item-2399\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2399\"><a href=\"https://atozcyber.co.in/ifsc-micr-code-banks/\">IFSC MICR Code Banks</a></li>\n\t<li id=\"menu-item-2400\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2400\"><a href=\"https://atozcyber.co.in/reverse-image-look-up-tools/\">Reverse Image Look up Tools</a></li>\n\t<li id=\"menu-item-2401\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2401\"><a href=\"https://atozcyber.co.in/domain-and-ip-bulk-lookup-tool/\">Domain and IP Bulk lookup tool</a></li>\n\t<li id=\"menu-item-2402\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2402\"><a href=\"https://atozcyber.co.in/phone-pe-law-enforcement/\">Phone Pe Law Enforcement</a></li>\n\t<li id=\"menu-item-2403\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2403\"><a href=\"https://atozcyber.co.in/search-discord-server-by-keyword/\">Search Discord Server by Keyword</a></li>\n\t<li id=\"menu-item-2404\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2404\"><a href=\"https://atozcyber.co.in/sim-issued-on-number/\">Sim Issued on Number</a></li>\n\t<li id=\"menu-item-2405\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2405\"><a href=\"https://atozcyber.co.in/all-social-media-tools/\">All Social Media Tools</a></li>\n\t<li id=\"menu-item-2406\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2406\"><a href=\"https://atozcyber.co.in/criminal-device-info/\">Criminal Device Info</a></li>\n\t<li id=\"menu-item-2407\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2407\"><a href=\"https://atozcyber.co.in/cryptocurrency-binance-law-enforcement-portal/\">CryptoCurrency Binance Law Enforcement Portal</a></li>\n\t<li id=\"menu-item-2408\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2408\"><a href=\"https://atozcyber.co.in/domain-and-ip-bulk-lookup-tool/\">Domain and IP Bulk lookup tool</a></li>\n\t<li id=\"menu-item-2392\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2392\"><a href=\"https://atozcyber.co.in/live-cyber-attacks/\">Live Cyber Attacks</a></li>\n</ul>\n</li>\n</ul></div>        </nav><!-- #site-navigation -->\r\n                            </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n\t\t\t</header><!-- #masthead -->\r\n\r\n    <div class=\"nav-form \">\r\n        <div class=\"nav-content\">\r\n            <div class=\"nav-spec\">\r\n                <nav class=\"nav-menu\">\r\n                                                            <div class=\"mobile-menu nav-is-visible\"><span></span></div>\r\n                                        <div class=\"menu-main-menu-container\"><ul id=\"primary-menu\" class=\"menu\"><li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-707 current_page_item menu-item-2365\"><a href=\"https://atozcyber.co.in/\" aria-current=\"page\">Home</a><span class=\"arrow\"></span></li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2366\"><a href=\"https://atozcyber.co.in/cyber-study/\">Cyber Study</a><span class=\"arrow\"></span>\n<ul class=\"sub-menu\">\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2367\"><a href=\"https://atozcyber.co.in/digital-forensics/\">Digital Forensics</a><span class=\"arrow\"></span>\n\t<ul class=\"sub-menu\">\n\t\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2369\"><a href=\"https://atozcyber.co.in/mobile-forensics-2/\">Mobile Forensics</a><span class=\"arrow\"></span>\n\t\t<ul class=\"sub-menu\">\n\t\t\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2384\"><a href=\"https://atozcyber.co.in/android-forensics-2/\">Android Forensics</a><span class=\"arrow\"></span></li>\n\t\t\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2383\"><a href=\"https://atozcyber.co.in/ios-forensics/\">iOS Forensics</a><span class=\"arrow\"></span></li>\n\t\t</ul>\n</li>\n\t\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2373\"><a href=\"https://atozcyber.co.in/cloud-forensics/\">Cloud Forensics</a><span class=\"arrow\"></span>\n\t\t<ul class=\"sub-menu\">\n\t\t\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2371\"><a href=\"https://atozcyber.co.in/aws-forensics/\">AWS Forensics</a><span class=\"arrow\"></span></li>\n\t\t\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2370\"><a href=\"https://atozcyber.co.in/azure-forensics/\">Azure Forensics</a><span class=\"arrow\"></span></li>\n\t\t</ul>\n</li>\n\t\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2374\"><a href=\"https://atozcyber.co.in/dark-web-tor-forensics/\">Dark Web ToR Forensics</a><span class=\"arrow\"></span></li>\n\t\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2375\"><a href=\"https://atozcyber.co.in/web-forensics/\">Digital Evidence and Techniques</a><span class=\"arrow\"></span></li>\n\t\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2376\"><a href=\"https://atozcyber.co.in/email-forensics/\">Email Forensics</a><span class=\"arrow\"></span></li>\n\t\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2380\"><a href=\"https://atozcyber.co.in/database-forensics/\">Database Forensics</a><span class=\"arrow\"></span></li>\n\t\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2379\"><a href=\"https://atozcyber.co.in/network-forensics/\">Network Forensics</a><span class=\"arrow\"></span></li>\n\t\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2377\"><a href=\"https://atozcyber.co.in/dvr-forensics/\">DVR Forensics</a><span class=\"arrow\"></span></li>\n\t\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2378\"><a href=\"https://atozcyber.co.in/iot-forensics/\">IoT Forensics</a><span class=\"arrow\"></span></li>\n\t\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2382\"><a href=\"https://atozcyber.co.in/cryptocurrency-forensics/\">Cryptocurrency Forensics</a><span class=\"arrow\"></span></li>\n\t\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2381\"><a href=\"https://atozcyber.co.in/crime-scene-forensics/\">Crime Scene Forensics</a><span class=\"arrow\"></span></li>\n\t</ul>\n</li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-3117\"><a href=\"https://atozcyber.co.in/ethical-hacking/\">Ethical Hacking</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3119\"><a href=\"https://atozcyber.co.in/cyber-study/vapt/\">VAPT</a><span class=\"arrow\"></span>\n\t<ul class=\"sub-menu\">\n\t\t<li class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-5515\"><a href=\"https://atozcyber.co.in/web-vapt/\">Web Vapt</a><span class=\"arrow\"></span></li>\n\t\t<li class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-5517\"><a href=\"https://atozcyber.co.in/android-vapt/\">Android Vapt</a><span class=\"arrow\"></span></li>\n\t</ul>\n</li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2368\"><a href=\"https://atozcyber.co.in/malware-analysis/\">Malware Analysis</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-3118\"><a href=\"https://atozcyber.co.in/cyber-study/soc/\">Security Operational Center</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3116\"><a href=\"https://atozcyber.co.in/network-security/\">Network Security</a><span class=\"arrow\"></span>\n\t<ul class=\"sub-menu\">\n\t\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5346\"><a href=\"https://atozcyber.co.in/firewall/\">Important Modules</a><span class=\"arrow\"></span>\n\t\t<ul class=\"sub-menu\">\n\t\t\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5350\"><a href=\"https://atozcyber.co.in/palo-alto-2/\">Tools</a><span class=\"arrow\"></span></li>\n\t\t</ul>\n</li>\n\t</ul>\n</li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-3115\"><a href=\"https://atozcyber.co.in/cyber-study/security-audit/\">Security Audit</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5374\"><a href=\"https://atozcyber.co.in/cyber-study/ctf/\">CTF</a><span class=\"arrow\"></span></li>\n</ul>\n</li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2372\"><a href=\"https://atozcyber.co.in/cyber-jobs/\">Cyber Jobs</a><span class=\"arrow\"></span></li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2385\"><a target=\"_blank\" href=\"https://atozcyber.co.in/police-investigation-live-tools/\">OSINT Investigation Tools</a><span class=\"arrow\"></span>\n<ul class=\"sub-menu\">\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2387\"><a href=\"https://atozcyber.co.in/law-enforcement-social-media-link/\">Law Enforcement Portal</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2389\"><a href=\"https://atozcyber.co.in/all-social-media-tools/\">All Social Media Tools</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2390\"><a href=\"https://atozcyber.co.in/best-leak-data-analysis/\">Victim Helpful Portals</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2386\"><a href=\"https://atozcyber.co.in/to-check-imei/\">To check IMEI</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2388\"><a href=\"https://atozcyber.co.in/sms-header-search-portal/\">SMS Header Search Portal</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2391\"><a href=\"https://atozcyber.co.in/large-text-file-analysis/\">Large Text file Analysis</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2393\"><a href=\"https://atozcyber.co.in/tor-ip-detection/\">APP IP Detection</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2394\"><a href=\"https://atozcyber.co.in/virtual-number-checker/\">Virtual Number Checker</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2395\"><a href=\"https://atozcyber.co.in/good-log-analyis-tool/\">Good Log Analyis tool</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2396\"><a href=\"https://atozcyber.co.in/cloudflare-resolver-tool/\">Cloudflare Resolver tool</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2397\"><a href=\"https://atozcyber.co.in/criminal-device-info/\">Criminal Device Info</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2398\"><a href=\"https://atozcyber.co.in/ip-grabbing-and-track/\">IP Grabbing and Track</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2399\"><a href=\"https://atozcyber.co.in/ifsc-micr-code-banks/\">IFSC MICR Code Banks</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2400\"><a href=\"https://atozcyber.co.in/reverse-image-look-up-tools/\">Reverse Image Look up Tools</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2401\"><a href=\"https://atozcyber.co.in/domain-and-ip-bulk-lookup-tool/\">Domain and IP Bulk lookup tool</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2402\"><a href=\"https://atozcyber.co.in/phone-pe-law-enforcement/\">Phone Pe Law Enforcement</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2403\"><a href=\"https://atozcyber.co.in/search-discord-server-by-keyword/\">Search Discord Server by Keyword</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2404\"><a href=\"https://atozcyber.co.in/sim-issued-on-number/\">Sim Issued on Number</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2405\"><a href=\"https://atozcyber.co.in/all-social-media-tools/\">All Social Media Tools</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2406\"><a href=\"https://atozcyber.co.in/criminal-device-info/\">Criminal Device Info</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2407\"><a href=\"https://atozcyber.co.in/cryptocurrency-binance-law-enforcement-portal/\">CryptoCurrency Binance Law Enforcement Portal</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2408\"><a href=\"https://atozcyber.co.in/domain-and-ip-bulk-lookup-tool/\">Domain and IP Bulk lookup tool</a><span class=\"arrow\"></span></li>\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2392\"><a href=\"https://atozcyber.co.in/live-cyber-attacks/\">Live Cyber Attacks</a><span class=\"arrow\"></span></li>\n</ul>\n</li>\n</ul></div>                </nav>\r\n            </div>\r\n        </div>\r\n    </div>\r\n\r\n    \r\n\t<div id=\"content\" class=\"site-content\">\t\t<div data-elementor-type=\"wp-post\" data-elementor-id=\"707\" class=\"elementor elementor-707\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-f238de2 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default\" data-id=\"f238de2\" data-element_type=\"section\" data-e-type=\"section\" data-settings=\"{&quot;stretch_section&quot;:&quot;section-stretched&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1471d5a\" data-id=\"1471d5a\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-4f5bddb elementor-widget elementor-widget-edu-featured-slider\" data-id=\"4f5bddb\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"edu-featured-slider.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\r\n        <div class=\"feature-slides-wrapper feature-slick-slider\" >\r\n            <div class=\"feature-slider slider-69a5884c3e418\" data-animation=\"up\">\r\n\t\t\t\t<div class=\"elementor-repeater-item-946ab51 slick-slide\"><div class=\"feature-slide-bg\"></div><div  class=\"feature-slide-inner\"><div class=\"feature-slide-content animated fadeInUp\"><h2 class=\"feature-slide-heading\">CYBER CRIME INVESTIGATION</h2><p class=\"feature-slide-description\">A to Z Cyber Help for Society</p><a href=\"https://atozcyber.co.in/police-investigation-live-tools/\" target=\"_blank\" class=\"btn slide-button\">Get Started</a></div></div></div>            </div>\r\n        </div>\r\n        <script type=\"text/javascript\">\r\n            (function($) {\r\n                \"use strict\";\r\n                $('.slider-69a5884c3e418').slick({    \r\n                          \r\n                                    });\r\n            })(jQuery);\r\n        </script>\r\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-1b084ac9 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"1b084ac9\" data-element_type=\"section\" data-e-type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4781e9a\" data-id=\"4781e9a\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-67e3fb6b elementor-position-inline-end elementor-view-default elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box\" data-id=\"67e3fb6b\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"icon-box.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-icon-box-wrapper\">\n\n\t\t\t\t\t\t<div class=\"elementor-icon-box-icon\">\n\t\t\t\t<span  class=\"elementor-icon elementor-animation-grow\">\n\t\t\t\t<svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-graduation-cap\" viewBox=\"0 0 640 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M622.34 153.2L343.4 67.5c-15.2-4.67-31.6-4.67-46.79 0L17.66 153.2c-23.54 7.23-23.54 38.36 0 45.59l48.63 14.94c-10.67 13.19-17.23 29.28-17.88 46.9C38.78 266.15 32 276.11 32 288c0 10.78 5.68 19.85 13.86 25.65L20.33 428.53C18.11 438.52 25.71 448 35.94 448h56.11c10.24 0 17.84-9.48 15.62-19.47L82.14 313.65C90.32 307.85 96 298.78 96 288c0-11.57-6.47-21.25-15.66-26.87.76-15.02 8.44-28.3 20.69-36.72L296.6 284.5c9.06 2.78 26.44 6.25 46.79 0l278.95-85.7c23.55-7.24 23.55-38.36 0-45.6zM352.79 315.09c-28.53 8.76-52.84 3.92-65.59 0l-145.02-44.55L128 384c0 35.35 85.96 64 192 64s192-28.65 192-64l-14.18-113.47-145.03 44.56z\"></path></svg>\t\t\t\t</span>\n\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t<div class=\"elementor-icon-box-content\">\n\n\t\t\t\t\t\t\t\t\t<h3 class=\"elementor-icon-box-title\">\n\t\t\t\t\t\t<span  >\n\t\t\t\t\t\t\tCourses \t\t\t\t\t\t</span>\n\t\t\t\t\t</h3>\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p class=\"elementor-icon-box-description\">\n\t\t\t\t\t\tAll courses will have specific learning outcome to solve the cyber cases. It brief about the <span><span data-dobid=\"hdw\">modus operandi, techniques to solve the case and poofs required to submit for investigation.</span></span>\t\t\t\t\t</p>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2658770d\" data-id=\"2658770d\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-54624fcf elementor-position-inline-end elementor-view-default elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box\" data-id=\"54624fcf\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"icon-box.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-icon-box-wrapper\">\n\n\t\t\t\t\t\t<div class=\"elementor-icon-box-icon\">\n\t\t\t\t<span  class=\"elementor-icon elementor-animation-grow\">\n\t\t\t\t<svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-trophy\" viewBox=\"0 0 576 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M552 64H448V24c0-13.3-10.7-24-24-24H152c-13.3 0-24 10.7-24 24v40H24C10.7 64 0 74.7 0 88v56c0 35.7 22.5 72.4 61.9 100.7 31.5 22.7 69.8 37.1 110 41.7C203.3 338.5 240 360 240 360v72h-48c-35.3 0-64 20.7-64 56v12c0 6.6 5.4 12 12 12h296c6.6 0 12-5.4 12-12v-12c0-35.3-28.7-56-64-56h-48v-72s36.7-21.5 68.1-73.6c40.3-4.6 78.6-19 110-41.7 39.3-28.3 61.9-65 61.9-100.7V88c0-13.3-10.7-24-24-24zM99.3 192.8C74.9 175.2 64 155.6 64 144v-16h64.2c1 32.6 5.8 61.2 12.8 86.2-15.1-5.2-29.2-12.4-41.7-21.4zM512 144c0 16.1-17.7 36.1-35.3 48.8-12.5 9-26.7 16.2-41.8 21.4 7-25 11.8-53.6 12.8-86.2H512v16z\"></path></svg>\t\t\t\t</span>\n\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t<div class=\"elementor-icon-box-content\">\n\n\t\t\t\t\t\t\t\t\t<h3 class=\"elementor-icon-box-title\">\n\t\t\t\t\t\t<span  >\n\t\t\t\t\t\t\tLive Chat 24X7\t\t\t\t\t\t</span>\n\t\t\t\t\t</h3>\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p class=\"elementor-icon-box-description\">\n\t\t\t\t\t\tOur vision is to make a safe and secure India by providing better cyber security training and self-awareness tips among citizens. Drop your messages in the chat.\t\t\t\t\t</p>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1635b74f\" data-id=\"1635b74f\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-7626e541 elementor-position-inline-end elementor-view-default elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box\" data-id=\"7626e541\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"icon-box.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-icon-box-wrapper\">\n\n\t\t\t\t\t\t<div class=\"elementor-icon-box-icon\">\n\t\t\t\t<span  class=\"elementor-icon elementor-animation-grow\">\n\t\t\t\t<svg aria-hidden=\"true\" class=\"e-font-icon-svg e-far-edit\" viewBox=\"0 0 576 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M402.3 344.9l32-32c5-5 13.7-1.5 13.7 5.7V464c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V112c0-26.5 21.5-48 48-48h273.5c7.1 0 10.7 8.6 5.7 13.7l-32 32c-1.5 1.5-3.5 2.3-5.7 2.3H48v352h352V350.5c0-2.1.8-4.1 2.3-5.6zm156.6-201.8L296.3 405.7l-90.4 10c-26.2 2.9-48.5-19.2-45.6-45.6l10-90.4L432.9 17.1c22.9-22.9 59.9-22.9 82.7 0l43.2 43.2c22.9 22.9 22.9 60 .1 82.8zM460.1 174L402 115.9 216.2 301.8l-7.3 65.3 65.3-7.3L460.1 174zm64.8-79.7l-43.2-43.2c-4.1-4.1-10.8-4.1-14.8 0L436 82l58.1 58.1 30.9-30.9c4-4.2 4-10.8-.1-14.9z\"></path></svg>\t\t\t\t</span>\n\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t<div class=\"elementor-icon-box-content\">\n\n\t\t\t\t\t\t\t\t\t<h3 class=\"elementor-icon-box-title\">\n\t\t\t\t\t\t<span  >\n\t\t\t\t\t\t\tCyber Study\t\t\t\t\t\t</span>\n\t\t\t\t\t</h3>\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p class=\"elementor-icon-box-description\">\n\t\t\t\t\t\tCyber Study provides A to Z complete information about technical sub domains of Cyber Security, to build career  in the field of cyber security. Law Enforcement tools\t\t\t\t\t</p>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-09631af elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"09631af\" data-element_type=\"section\" data-e-type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d923a14\" data-id=\"d923a14\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-f57ee71 elementor-widget elementor-widget-edu-courses-grid\" data-id=\"f57ee71\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"edu-courses-grid.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\r\n            <div class=\"layout_1 carousel-wrapper\">\r\n\r\n                <div class=\"row\">\r\n                    <div class=\"col-md-6 col-xs-12 text-left\">\r\n                        <h2 class=\"title\">Top Courses</h2>\r\n                    </div>\r\n                    <div class=\"col-md-6 col-xs-12 btn-view-all text-right\">\r\n                        <a class=\"btn btn-all-courses\" href=\"https://atozcyber.co.in\">View All Courses</a>\r\n                    </div>\r\n                </div>\r\n\r\n                <div class=\"carouse-grid row\">\r\n\t\t\t\t\t<div class=\"col-sm-6\">                       \r\n                        <div class=\"course-grid-box \">\r\n                            <div class=\"course-holder\">\r\n                                <div class=\"course-holder-inner\">\r\n                                    <a href=\"https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/system-hacking/\" class=\"course_link\"></a>\r\n                                    <span class=\"course-bg\" style=\"background-image: url(https://atozcyber.co.in/wp-content/uploads/2025/03/My-Computer-has-been-hacked.jpg)\"></span>\r\n                                    <div class=\"info-on-hover\">\r\n                                        <h4 class=\"course-title\">System Hacking</h4>\r\n                                                    <div class=\"course-price\">\r\n            \r\n                \r\n                <span class=\"price\">Free</span>\r\n           \r\n            </div>\r\n                                            </div>\r\n                                </div>\r\n                            </div>\r\n                        </div>\r\n\r\n                        </div><div class=\"col-sm-6\"><div class=\"row\">                       \r\n                        <div class=\"course-grid-box col-sm-6\">\r\n                            <div class=\"course-holder\">\r\n                                <div class=\"course-holder-inner\">\r\n                                    <a href=\"https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/ransomware/\" class=\"course_link\"></a>\r\n                                    <span class=\"course-bg\" style=\"background-image: url(https://atozcyber.co.in/wp-content/uploads/2025/03/iStock-1191833199-1024x776.webp)\"></span>\r\n                                    <div class=\"info-on-hover\">\r\n                                        <h4 class=\"course-title\">Ransomware Investigation</h4>\r\n                                                    <div class=\"course-price\">\r\n            \r\n                \r\n                <span class=\"price\">Free</span>\r\n           \r\n            </div>\r\n                                            </div>\r\n                                </div>\r\n                            </div>\r\n                        </div>\r\n\r\n                                               \r\n                        <div class=\"course-grid-box col-sm-6\">\r\n                            <div class=\"course-holder\">\r\n                                <div class=\"course-holder-inner\">\r\n                                    <a href=\"https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/digital-arrest-scams/\" class=\"course_link\"></a>\r\n                                    <span class=\"course-bg\" style=\"background-image: url(https://atozcyber.co.in/wp-content/uploads/2025/03/images-1.jpg)\"></span>\r\n                                    <div class=\"info-on-hover\">\r\n                                        <h4 class=\"course-title\">Digital Arrest Scams</h4>\r\n                                                    <div class=\"course-price\">\r\n            \r\n                \r\n                <span class=\"price\">Free</span>\r\n           \r\n            </div>\r\n                                            </div>\r\n                                </div>\r\n                            </div>\r\n                        </div>\r\n\r\n                                               \r\n                        <div class=\"course-grid-box col-sm-6\">\r\n                            <div class=\"course-holder\">\r\n                                <div class=\"course-holder-inner\">\r\n                                    <a href=\"https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/call-spoofing/\" class=\"course_link\"></a>\r\n                                    <span class=\"course-bg\" style=\"background-image: url(https://atozcyber.co.in/wp-content/uploads/2025/03/photo-1024x720.jpg)\"></span>\r\n                                    <div class=\"info-on-hover\">\r\n                                        <h4 class=\"course-title\">Call Spoofing</h4>\r\n                                                    <div class=\"course-price\">\r\n            \r\n                \r\n                <span class=\"price\">Free</span>\r\n           \r\n            </div>\r\n                                            </div>\r\n                                </div>\r\n                            </div>\r\n                        </div>\r\n\r\n                                               \r\n                        <div class=\"course-grid-box col-sm-6\">\r\n                            <div class=\"course-holder\">\r\n                                <div class=\"course-holder-inner\">\r\n                                    <a href=\"https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/call-merging-scam/\" class=\"course_link\"></a>\r\n                                    <span class=\"course-bg\" style=\"background-image: url(https://atozcyber.co.in/wp-content/uploads/2025/03/f0423623-4aa4-4ecd-9d2d-95b9ed8febb5_1D4HocNnAGAe5iPEWAbkIW1QlsJt8vZTl-1024x776.jpeg)\"></span>\r\n                                    <div class=\"info-on-hover\">\r\n                                        <h4 class=\"course-title\">Call Merging Scam</h4>\r\n                                                    <div class=\"course-price\">\r\n            \r\n                \r\n                <span class=\"price\">Free</span>\r\n           \r\n            </div>\r\n                                            </div>\r\n                                </div>\r\n                            </div>\r\n                        </div>\r\n\r\n                        </div></div>                </div>\r\n            </div>\r\n            \t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-d32c7c6 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default\" data-id=\"d32c7c6\" data-element_type=\"section\" data-e-type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t\t<div class=\"elementor-background-overlay\"></div>\n\t\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-90b5f2b\" data-id=\"90b5f2b\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-d9db5a1 elementor-widget elementor-widget-heading\" data-id=\"d9db5a1\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Life changing knowledge</h2>\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-6dae584 elementor-widget elementor-widget-text-editor\" data-id=\"6dae584\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p>A Better Career Guidance in the field of Cyber Security</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-9106c2d elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"9106c2d\" data-element_type=\"section\" data-e-type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1f3fdea\" data-id=\"1f3fdea\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-e28fdee elementor-view-default elementor-widget elementor-widget-icon\" data-id=\"e28fdee\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"icon.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-icon-wrapper\">\n\t\t\t<div class=\"elementor-icon\">\n\t\t\t<svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-globe\" viewBox=\"0 0 496 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z\"></path></svg>\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-632abb0 elementor-widget elementor-widget-counter\" data-id=\"632abb0\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"counter.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-counter\">\n\t\t\t<div class=\"elementor-counter-title\">Proects</div>\t\t\t<div class=\"elementor-counter-number-wrapper\">\n\t\t\t\t<span class=\"elementor-counter-number-prefix\"></span>\n\t\t\t\t<span class=\"elementor-counter-number\" data-duration=\"2000\" data-to-value=\"70\" data-from-value=\"\" data-delimiter=\",\"></span>\n\t\t\t\t<span class=\"elementor-counter-number-suffix\"></span>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7d69cac\" data-id=\"7d69cac\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-3267b21 elementor-view-default elementor-widget elementor-widget-icon\" data-id=\"3267b21\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"icon.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-icon-wrapper\">\n\t\t\t<div class=\"elementor-icon\">\n\t\t\t\t\t\t\t<i class=\"fa fa-book\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-369d230 elementor-widget elementor-widget-counter\" data-id=\"369d230\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"counter.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-counter\">\n\t\t\t<div class=\"elementor-counter-title\">SESSIONS</div>\t\t\t<div class=\"elementor-counter-number-wrapper\">\n\t\t\t\t<span class=\"elementor-counter-number-prefix\"></span>\n\t\t\t\t<span class=\"elementor-counter-number\" data-duration=\"2000\" data-to-value=\"549\" data-from-value=\"\" data-delimiter=\",\"></span>\n\t\t\t\t<span class=\"elementor-counter-number-suffix\"></span>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ae2c707\" data-id=\"ae2c707\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-b4e8d1a elementor-view-default elementor-widget elementor-widget-icon\" data-id=\"b4e8d1a\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"icon.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-icon-wrapper\">\n\t\t\t<div class=\"elementor-icon\">\n\t\t\t\t\t\t\t<i class=\"fa fa-user-plus\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-5343753 elementor-widget elementor-widget-counter\" data-id=\"5343753\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"counter.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-counter\">\n\t\t\t<div class=\"elementor-counter-title\">PEOPLE INTERACTIONS</div>\t\t\t<div class=\"elementor-counter-number-wrapper\">\n\t\t\t\t<span class=\"elementor-counter-number-prefix\"></span>\n\t\t\t\t<span class=\"elementor-counter-number\" data-duration=\"2000\" data-to-value=\"116789\" data-from-value=\"\" data-delimiter=\",\"></span>\n\t\t\t\t<span class=\"elementor-counter-number-suffix\"></span>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-50887db elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"50887db\" data-element_type=\"section\" data-e-type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0bde15c\" data-id=\"0bde15c\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-2f72bd1 elementor-align-center elementor-widget elementor-widget-button\" data-id=\"2f72bd1\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://www.cybersecurityjobs.com/\" target=\"_blank\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t<span class=\"elementor-button-icon\">\n\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">JOBS</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-b59cf93 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"b59cf93\" data-element_type=\"section\" data-e-type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e353ab4\" data-id=\"e353ab4\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-703dc5e elementor-widget__width-initial elementor-widget elementor-widget-heading\" data-id=\"703dc5e\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">                        CYBER STUDY</h2>\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-b648dbe elementor-widget elementor-widget-text-editor\" data-id=\"b648dbe\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p style=\"text-align: left;\">                                                                                                                                  All study materials are available.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-0df5640 elementor-align-center elementor-widget__width-initial elementor-widget elementor-widget-button\" data-id=\"0df5640\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Read More</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-ad93934 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"ad93934\" data-element_type=\"section\" data-e-type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-460e8e7\" data-id=\"460e8e7\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-e8ed8ef elementor-widget elementor-widget-heading\" data-id=\"e8ed8ef\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">What will you learn</h2>\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-2a7e71c elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"2a7e71c\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-dd0c404 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"dd0c404\" data-element_type=\"section\" data-e-type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-057e83f\" data-id=\"057e83f\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-96c4872 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box\" data-id=\"96c4872\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"icon-box.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-icon-box-wrapper\">\n\n\t\t\t\t\t\t<div class=\"elementor-icon-box-icon\">\n\t\t\t\t<a href=\"https://atozcyber.co.in/digital-forensics/\" target=\"_blank\" class=\"elementor-icon elementor-animation-pulse\" tabindex=\"-1\" aria-label=\"DIGITAL FORENSICS\">\n\t\t\t\t<svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-database\" viewBox=\"0 0 448 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M448 73.143v45.714C448 159.143 347.667 192 224 192S0 159.143 0 118.857V73.143C0 32.857 100.333 0 224 0s224 32.857 224 73.143zM448 176v102.857C448 319.143 347.667 352 224 352S0 319.143 0 278.857V176c48.125 33.143 136.208 48.572 224 48.572S399.874 209.143 448 176zm0 160v102.857C448 479.143 347.667 512 224 512S0 479.143 0 438.857V336c48.125 33.143 136.208 48.572 224 48.572S399.874 369.143 448 336z\"></path></svg>\t\t\t\t</a>\n\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t<div class=\"elementor-icon-box-content\">\n\n\t\t\t\t\t\t\t\t\t<h3 class=\"elementor-icon-box-title\">\n\t\t\t\t\t\t<a href=\"https://atozcyber.co.in/digital-forensics/\" target=\"_blank\" >\n\t\t\t\t\t\t\tDIGITAL FORENSICS\t\t\t\t\t\t</a>\n\t\t\t\t\t</h3>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-97539d8\" data-id=\"97539d8\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-e595a9c elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box\" data-id=\"e595a9c\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"icon-box.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-icon-box-wrapper\">\n\n\t\t\t\t\t\t<div class=\"elementor-icon-box-icon\">\n\t\t\t\t<span  class=\"elementor-icon elementor-animation-pulse\">\n\t\t\t\t<svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-globe\" viewBox=\"0 0 496 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z\"></path></svg>\t\t\t\t</span>\n\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t<div class=\"elementor-icon-box-content\">\n\n\t\t\t\t\t\t\t\t\t<h3 class=\"elementor-icon-box-title\">\n\t\t\t\t\t\t<span  >\n\t\t\t\t\t\t\tWEBSITE INVESTIGATION\t\t\t\t\t\t</span>\n\t\t\t\t\t</h3>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-d1d11e5\" data-id=\"d1d11e5\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-942debf elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box\" data-id=\"942debf\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"icon-box.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-icon-box-wrapper\">\n\n\t\t\t\t\t\t<div class=\"elementor-icon-box-icon\">\n\t\t\t\t<span  class=\"elementor-icon elementor-animation-pulse\">\n\t\t\t\t<svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-random\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M504.971 359.029c9.373 9.373 9.373 24.569 0 33.941l-80 79.984c-15.01 15.01-40.971 4.49-40.971-16.971V416h-58.785a12.004 12.004 0 0 1-8.773-3.812l-70.556-75.596 53.333-57.143L352 336h32v-39.981c0-21.438 25.943-31.998 40.971-16.971l80 79.981zM12 176h84l52.781 56.551 53.333-57.143-70.556-75.596A11.999 11.999 0 0 0 122.785 96H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12zm372 0v39.984c0 21.46 25.961 31.98 40.971 16.971l80-79.984c9.373-9.373 9.373-24.569 0-33.941l-80-79.981C409.943 24.021 384 34.582 384 56.019V96h-58.785a12.004 12.004 0 0 0-8.773 3.812L96 336H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h110.785c3.326 0 6.503-1.381 8.773-3.812L352 176h32z\"></path></svg>\t\t\t\t</span>\n\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t<div class=\"elementor-icon-box-content\">\n\n\t\t\t\t\t\t\t\t\t<h3 class=\"elementor-icon-box-title\">\n\t\t\t\t\t\t<span  >\n\t\t\t\t\t\t\tALL MEDIA INVESTIGATION\t\t\t\t\t\t</span>\n\t\t\t\t\t</h3>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-2e0d1cf\" data-id=\"2e0d1cf\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-5f6f968 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box\" data-id=\"5f6f968\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"icon-box.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-icon-box-wrapper\">\n\n\t\t\t\t\t\t<div class=\"elementor-icon-box-icon\">\n\t\t\t\t<span  class=\"elementor-icon elementor-animation-pulse\">\n\t\t\t\t<svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-laptop\" viewBox=\"0 0 640 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z\"></path></svg>\t\t\t\t</span>\n\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t<div class=\"elementor-icon-box-content\">\n\n\t\t\t\t\t\t\t\t\t<h3 class=\"elementor-icon-box-title\">\n\t\t\t\t\t\t<span  >\n\t\t\t\t\t\t\tHACKING INVESTIGATION\t\t\t\t\t\t</span>\n\t\t\t\t\t</h3>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-0e12139\" data-id=\"0e12139\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-86c358e elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box\" data-id=\"86c358e\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"icon-box.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-icon-box-wrapper\">\n\n\t\t\t\t\t\t<div class=\"elementor-icon-box-icon\">\n\t\t\t\t<a href=\"https://atozcyber.co.in/osint/\" target=\"_blank\" class=\"elementor-icon elementor-animation-pulse\" tabindex=\"-1\" aria-label=\"OSINT\">\n\t\t\t\t<svg aria-hidden=\"true\" class=\"e-font-icon-svg e-far-money-bill-alt\" viewBox=\"0 0 640 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M320 144c-53.02 0-96 50.14-96 112 0 61.85 42.98 112 96 112 53 0 96-50.13 96-112 0-61.86-42.98-112-96-112zm40 168c0 4.42-3.58 8-8 8h-64c-4.42 0-8-3.58-8-8v-16c0-4.42 3.58-8 8-8h16v-55.44l-.47.31a7.992 7.992 0 0 1-11.09-2.22l-8.88-13.31a7.992 7.992 0 0 1 2.22-11.09l15.33-10.22a23.99 23.99 0 0 1 13.31-4.03H328c4.42 0 8 3.58 8 8v88h16c4.42 0 8 3.58 8 8v16zM608 64H32C14.33 64 0 78.33 0 96v320c0 17.67 14.33 32 32 32h576c17.67 0 32-14.33 32-32V96c0-17.67-14.33-32-32-32zm-16 272c-35.35 0-64 28.65-64 64H112c0-35.35-28.65-64-64-64V176c35.35 0 64-28.65 64-64h416c0 35.35 28.65 64 64 64v160z\"></path></svg>\t\t\t\t</a>\n\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t<div class=\"elementor-icon-box-content\">\n\n\t\t\t\t\t\t\t\t\t<h3 class=\"elementor-icon-box-title\">\n\t\t\t\t\t\t<a href=\"https://atozcyber.co.in/osint/\" target=\"_blank\" >\n\t\t\t\t\t\t\tOSINT\t\t\t\t\t\t</a>\n\t\t\t\t\t</h3>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t<div class=\"elementor-element elementor-element-24a2190 e-flex e-con-boxed e-con e-parent\" data-id=\"24a2190\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-57470cf e-flex e-con-boxed e-con e-parent\" data-id=\"57470cf\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-97db6da elementor-widget elementor-widget-edu-courses-grid\" data-id=\"97db6da\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"edu-courses-grid.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\r\n            <div class=\"layout_1 carousel-wrapper\">\r\n\r\n                <div class=\"row\">\r\n                    <div class=\"col-md-6 col-xs-12 text-left\">\r\n                        <h2 class=\"title\">Courses</h2>\r\n                    </div>\r\n                    <div class=\"col-md-6 col-xs-12 btn-view-all text-right\">\r\n                        <a class=\"btn btn-all-courses\" href=\"\">View All Courses</a>\r\n                    </div>\r\n                </div>\r\n\r\n                <div class=\"carouse-grid row\">\r\n\t\t\t\t\t<div class=\"col-sm-6\">                       \r\n                        <div class=\"course-grid-box \">\r\n                            <div class=\"course-holder\">\r\n                                <div class=\"course-holder-inner\">\r\n                                    <a href=\"https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/system-hacking/\" class=\"course_link\"></a>\r\n                                    <span class=\"course-bg\" style=\"background-image: url(https://atozcyber.co.in/wp-content/uploads/2025/03/My-Computer-has-been-hacked.jpg)\"></span>\r\n                                    <div class=\"info-on-hover\">\r\n                                        <h4 class=\"course-title\">System Hacking</h4>\r\n                                                    <div class=\"course-price\">\r\n            \r\n                \r\n                <span class=\"price\">Free</span>\r\n           \r\n            </div>\r\n                                            </div>\r\n                                </div>\r\n                            </div>\r\n                        </div>\r\n\r\n                        </div><div class=\"col-sm-6\"><div class=\"row\">                       \r\n                        <div class=\"course-grid-box col-sm-6\">\r\n                            <div class=\"course-holder\">\r\n                                <div class=\"course-holder-inner\">\r\n                                    <a href=\"https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/ransomware/\" class=\"course_link\"></a>\r\n                                    <span class=\"course-bg\" style=\"background-image: url(https://atozcyber.co.in/wp-content/uploads/2025/03/iStock-1191833199-1024x776.webp)\"></span>\r\n                                    <div class=\"info-on-hover\">\r\n                                        <h4 class=\"course-title\">Ransomware Investigation</h4>\r\n                                                    <div class=\"course-price\">\r\n            \r\n                \r\n                <span class=\"price\">Free</span>\r\n           \r\n            </div>\r\n                                            </div>\r\n                                </div>\r\n                            </div>\r\n                        </div>\r\n\r\n                                               \r\n                        <div class=\"course-grid-box col-sm-6\">\r\n                            <div class=\"course-holder\">\r\n                                <div class=\"course-holder-inner\">\r\n                                    <a href=\"https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/digital-arrest-scams/\" class=\"course_link\"></a>\r\n                                    <span class=\"course-bg\" style=\"background-image: url(https://atozcyber.co.in/wp-content/uploads/2025/03/images-1.jpg)\"></span>\r\n                                    <div class=\"info-on-hover\">\r\n                                        <h4 class=\"course-title\">Digital Arrest Scams</h4>\r\n                                                    <div class=\"course-price\">\r\n            \r\n                \r\n                <span class=\"price\">Free</span>\r\n           \r\n            </div>\r\n                                            </div>\r\n                                </div>\r\n                            </div>\r\n                        </div>\r\n\r\n                                               \r\n                        <div class=\"course-grid-box col-sm-6\">\r\n                            <div class=\"course-holder\">\r\n                                <div class=\"course-holder-inner\">\r\n                                    <a href=\"https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/call-spoofing/\" class=\"course_link\"></a>\r\n                                    <span class=\"course-bg\" style=\"background-image: url(https://atozcyber.co.in/wp-content/uploads/2025/03/photo-1024x720.jpg)\"></span>\r\n                                    <div class=\"info-on-hover\">\r\n                                        <h4 class=\"course-title\">Call Spoofing</h4>\r\n                                                    <div class=\"course-price\">\r\n            \r\n                \r\n                <span class=\"price\">Free</span>\r\n           \r\n            </div>\r\n                                            </div>\r\n                                </div>\r\n                            </div>\r\n                        </div>\r\n\r\n                                               \r\n                        <div class=\"course-grid-box col-sm-6\">\r\n                            <div class=\"course-holder\">\r\n                                <div class=\"course-holder-inner\">\r\n                                    <a href=\"https://atozcyber.co.in/https-profdeepakupadhyay-atozcyber-co-in/investigation-courses/call-merging-scam/\" class=\"course_link\"></a>\r\n                                    <span class=\"course-bg\" style=\"background-image: url(https://atozcyber.co.in/wp-content/uploads/2025/03/f0423623-4aa4-4ecd-9d2d-95b9ed8febb5_1D4HocNnAGAe5iPEWAbkIW1QlsJt8vZTl-1024x776.jpeg)\"></span>\r\n                                    <div class=\"info-on-hover\">\r\n                                        <h4 class=\"course-title\">Call Merging Scam</h4>\r\n                                                    <div class=\"course-price\">\r\n            \r\n                \r\n                <span class=\"price\">Free</span>\r\n           \r\n            </div>\r\n                                            </div>\r\n                                </div>\r\n                            </div>\r\n                        </div>\r\n\r\n                        </div></div>                </div>\r\n            </div>\r\n            \t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\r\n\t</div><!-- #content -->\r\n\r\n\t<footer id=\"colophon\" class=\"site-footer\">\r\n\r\n\t\t\r\n\t\t<div id=\"footer\" class=\"container\">\r\n\r\n\t\t\t\r\n                        <div class=\"footer-widgets\">\r\n                <div class=\"row\">\r\n                    <div class=\"col-md-3\">\r\n\t\t\t                                </div>\r\n                    <div class=\"col-md-3\">\r\n\t\t\t                                </div>\r\n                    <div class=\"col-md-3\">\r\n\t\t\t                                </div>\r\n                    <div class=\"col-md-3\">\r\n\t\t\t                                </div>\r\n                </div>\r\n            </div>\r\n            \r\n            <div class=\"copyright-area\">\r\n                <div class=\"row\">\r\n                    <div class=\"col-sm-6\">\r\n                        <div class=\"site-info\">\r\n\t                        Copyright &copy; 2026 <a href=\"https://atozcyber.co.in/\" title=\"Cyber Crime Investigation\">Cyber Crime Investigation</a> - <a target=\"_blank\" href=\"#\">Developed by  </a>  <span>atozcyber.com</span>                        </div><!-- .site-info -->\r\n                    </div>\r\n                    <div class=\"col-sm-6\">\r\n                        \r\n                    </div>\r\n                </div>\r\n            </div>\r\n\r\n        </div>\r\n\t</footer><!-- #colophon -->\r\n\r\n    \r\n</div><!-- #page -->\r\n\r\n<script type=\"speculationrules\">\n{\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/education-lms/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]}\n</script>\n\n<!--Start of Tawk.to Script (0.9.3)-->\n<script id=\"tawk-script\" type=\"text/javascript\">\nvar Tawk_API = Tawk_API || {};\nvar Tawk_LoadStart=new Date();\n(function(){\n\tvar s1 = document.createElement( 'script' ),s0=document.getElementsByTagName( 'script' )[0];\n\ts1.async = true;\n\ts1.src = 'https://embed.tawk.to/6268407e7b967b11798ca1c8/1g1jjnro5';\n\ts1.charset = 'UTF-8';\n\ts1.setAttribute( 'crossorigin','*' );\n\ts0.parentNode.insertBefore( s1, s0 );\n})();\n</script>\n<!--End of Tawk.to Script (0.9.3)-->\n\n\t\t\t<script>\n\t\t\t\tconst lazyloadRunObserver = () => {\n\t\t\t\t\tconst lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );\n\t\t\t\t\tconst lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {\n\t\t\t\t\t\tentries.forEach( ( entry ) => {\n\t\t\t\t\t\t\tif ( entry.isIntersecting ) {\n\t\t\t\t\t\t\t\tlet lazyloadBackground = entry.target;\n\t\t\t\t\t\t\t\tif( lazyloadBackground ) {\n\t\t\t\t\t\t\t\t\tlazyloadBackground.classList.add( 'e-lazyloaded' );\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\tlazyloadBackgroundObserver.unobserve( entry.target );\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t}, { rootMargin: '200px 0px 200px 0px' } );\n\t\t\t\t\tlazyloadBackgrounds.forEach( ( lazyloadBackground ) => {\n\t\t\t\t\t\tlazyloadBackgroundObserver.observe( lazyloadBackground );\n\t\t\t\t\t} );\n\t\t\t\t};\n\t\t\t\tconst events = [\n\t\t\t\t\t'DOMContentLoaded',\n\t\t\t\t\t'elementor/lazyload/observe',\n\t\t\t\t];\n\t\t\t\tevents.forEach( ( event ) => {\n\t\t\t\t\tdocument.addEventListener( event, lazyloadRunObserver );\n\t\t\t\t} );\n\t\t\t</script>\n\t\t\t<script type=\"text/javascript\" id=\"hostinger-reach-subscription-block-view-js-extra\">\n/* <![CDATA[ */\nvar hostinger_reach_subscription_block_data = {\"endpoint\":\"https://atozcyber.co.in/wp-json/hostinger-reach/v1/contact\",\"nonce\":\"735a5a96ee\",\"translations\":{\"thanks\":\"Thanks for subscribing.\",\"error\":\"Something went wrong. Please try again.\"}};\n//# sourceURL=hostinger-reach-subscription-block-view-js-extra\n/* ]]> */\n</script>\n<script type=\"text/javascript\" src=\"https://atozcyber.co.in/wp-content/plugins/hostinger-reach/frontend/dist/blocks/subscription-view.js?ver=1772165181\" id=\"hostinger-reach-subscription-block-view-js\"></script>\n<script type=\"text/javascript\" id=\"education-lms-custom-js-extra\">\n/* <![CDATA[ */\nvar Education_LMS = {\"menu_sidebar\":\"left\",\"sticky_header\":\"0\"};\n//# sourceURL=education-lms-custom-js-extra\n/* ]]> */\n</script>\n<script type=\"text/javascript\" src=\"https://atozcyber.co.in/wp-content/themes/education-lms/assets/js/custom.js?ver=6.9.1\" id=\"education-lms-custom-js\"></script>\n<script type=\"text/javascript\" src=\"https://atozcyber.co.in/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1\" id=\"wp-hooks-js\"></script>\n<script type=\"text/javascript\" src=\"https://atozcyber.co.in/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375\" id=\"wp-i18n-js\"></script>\n<script type=\"text/javascript\" id=\"wp-i18n-js-after\">\n/* <![CDATA[ */\nwp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );\n//# sourceURL=wp-i18n-js-after\n/* ]]> */\n</script>\n<script type=\"text/javascript\" src=\"https://atozcyber.co.in/wp-includes/js/dist/url.min.js?ver=9e178c9516d1222dc834\" id=\"wp-url-js\"></script>\n<script type=\"text/javascript\" src=\"https://atozcyber.co.in/wp-includes/js/dist/api-fetch.min.js?ver=3a4d9af2b423048b0dee\" id=\"wp-api-fetch-js\"></script>\n<script type=\"text/javascript\" id=\"wp-api-fetch-js-after\">\n/* <![CDATA[ */\nwp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( \"https://atozcyber.co.in/wp-json/\" ) );\nwp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( \"735a5a96ee\" );\nwp.apiFetch.use( wp.apiFetch.nonceMiddleware );\nwp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );\nwp.apiFetch.nonceEndpoint = \"https://atozcyber.co.in/wp-admin/admin-ajax.php?action=rest-nonce\";\n//# sourceURL=wp-api-fetch-js-after\n/* ]]> */\n</script>\n<script type=\"text/javascript\" src=\"https://atozcyber.co.in/wp-content/plugins/learnpress-import-export/assets/dist/js/frontend/learnpress-import-export-global.min.js?ver=4.1.2\" id=\"learnpress-import-export-global-js\"></script>\n<script type=\"text/javascript\" src=\"https://atozcyber.co.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.35.0-dev4\" id=\"elementor-webpack-runtime-js\"></script>\n<script type=\"text/javascript\" src=\"https://atozcyber.co.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.35.0-dev4\" id=\"elementor-frontend-modules-js\"></script>\n<script type=\"text/javascript\" src=\"https://atozcyber.co.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3\" id=\"jquery-ui-core-js\"></script>\n<script type=\"text/javascript\" id=\"elementor-frontend-js-before\">\n/* <![CDATA[ */\nvar elementorFrontendConfig = {\"environmentMode\":{\"edit\":false,\"wpPreview\":false,\"isScriptDebug\":false},\"i18n\":{\"shareOnFacebook\":\"Share on Facebook\",\"shareOnTwitter\":\"Share on Twitter\",\"pinIt\":\"Pin it\",\"download\":\"Download\",\"downloadImage\":\"Download image\",\"fullscreen\":\"Fullscreen\",\"zoom\":\"Zoom\",\"share\":\"Share\",\"playVideo\":\"Play Video\",\"previous\":\"Previous\",\"next\":\"Next\",\"close\":\"Close\",\"a11yCarouselPrevSlideMessage\":\"Previous slide\",\"a11yCarouselNextSlideMessage\":\"Next slide\",\"a11yCarouselFirstSlideMessage\":\"This is the first slide\",\"a11yCarouselLastSlideMessage\":\"This is the last slide\",\"a11yCarouselPaginationBulletMessage\":\"Go to slide\"},\"is_rtl\":false,\"breakpoints\":{\"xs\":0,\"sm\":480,\"md\":768,\"lg\":1025,\"xl\":1440,\"xxl\":1600},\"responsive\":{\"breakpoints\":{\"mobile\":{\"label\":\"Mobile Portrait\",\"value\":767,\"default_value\":767,\"direction\":\"max\",\"is_enabled\":true},\"mobile_extra\":{\"label\":\"Mobile Landscape\",\"value\":880,\"default_value\":880,\"direction\":\"max\",\"is_enabled\":false},\"tablet\":{\"label\":\"Tablet Portrait\",\"value\":1024,\"default_value\":1024,\"direction\":\"max\",\"is_enabled\":true},\"tablet_extra\":{\"label\":\"Tablet Landscape\",\"value\":1200,\"default_value\":1200,\"direction\":\"max\",\"is_enabled\":false},\"laptop\":{\"label\":\"Laptop\",\"value\":1366,\"default_value\":1366,\"direction\":\"max\",\"is_enabled\":false},\"widescreen\":{\"label\":\"Widescreen\",\"value\":2400,\"default_value\":2400,\"direction\":\"min\",\"is_enabled\":false}},\n\"hasCustomBreakpoints\":false},\"version\":\"3.35.0-dev4\",\"is_static\":false,\"experimentalFeatures\":{\"e_font_icon_svg\":true,\"additional_custom_breakpoints\":true,\"container\":true,\"e_optimized_markup\":true,\"nested-elements\":true,\"home_screen\":true,\"global_classes_should_enforce_capabilities\":true,\"e_variables\":true,\"cloud-library\":true,\"e_opt_in_v4_page\":true,\"e_components\":true,\"e_interactions\":true,\"e_editor_one\":true,\"import-export-customization\":true},\"urls\":{\"assets\":\"https:\\/\\/atozcyber.co.in\\/wp-content\\/plugins\\/elementor\\/assets\\/\",\"ajaxurl\":\"https:\\/\\/atozcyber.co.in\\/wp-admin\\/admin-ajax.php\",\"uploadUrl\":\"https:\\/\\/atozcyber.co.in\\/wp-content\\/uploads\"},\"nonces\":{\"floatingButtonsClickTracking\":\"4244d86962\"},\"swiperClass\":\"swiper\",\"settings\":{\"page\":[],\"editorPreferences\":[]},\"kit\":{\"active_breakpoints\":[\"viewport_mobile\",\"viewport_tablet\"],\"global_image_lightbox\":\"yes\",\"lightbox_enable_counter\":\"yes\",\"lightbox_enable_fullscreen\":\"yes\",\"lightbox_enable_zoom\":\"yes\",\"lightbox_enable_share\":\"yes\",\"lightbox_title_src\":\"title\",\"lightbox_description_src\":\"description\"},\"post\":{\"id\":707,\"title\":\"Cyber%20Crime%20Investigation%20%E2%80%93%20%40AtoZ%20Cyber%20Help%20For%20Society\",\"excerpt\":\"\",\"featuredImage\":false}};\n//# sourceURL=elementor-frontend-js-before\n/* ]]> */\n</script>\n<script type=\"text/javascript\" src=\"https://atozcyber.co.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.35.0-dev4\" id=\"elementor-frontend-js\"></script>\n<script type=\"text/javascript\" src=\"https://atozcyber.co.in/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1\" id=\"jquery-numerator-js\"></script>\n<script type=\"text/javascript\" id=\"jetpack-stats-js-before\">\n/* <![CDATA[ */\n_stq = window._stq || [];\n_stq.push([ \"view\", {\"v\":\"ext\",\"blog\":\"242726592\",\"post\":\"707\",\"tz\":\"0\",\"srv\":\"atozcyber.co.in\",\"j\":\"1:15.5\"} ]);\n_stq.push([ \"clickTrackerInit\", \"242726592\", \"707\" ]);\n//# sourceURL=jetpack-stats-js-before\n/* ]]> */\n</script>\n<script type=\"text/javascript\" src=\"https://stats.wp.com/e-202610.js\" id=\"jetpack-stats-js\" defer=\"defer\" data-wp-strategy=\"defer\"></script>\n<script id=\"wp-emoji-settings\" type=\"application/json\">\n{\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://atozcyber.co.in/wp-includes/js/wp-emoji-release.min.js?ver=6.9.1\"}}\n</script>\n<script type=\"module\">\n/* <![CDATA[ */\n/*! This file is auto-generated */\nconst a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});\n//# sourceURL=https://atozcyber.co.in/wp-includes/js/wp-emoji-loader.min.js\n/* ]]> */\n</script>\n\r\n</body>\r\n</html>\r\n\n\n<!-- Page cached by LiteSpeed Cache 7.7 on 2026-03-02 12:53:32 -->",
+  "tech": {
+    "server": "LiteSpeed",
+    "x_powered_by": "PHP/8.4.3",
+    "generator": "WordPress 6.9.1",
+    "cms": [
+      "WordPress"
+    ],
+    "js_frameworks": [
+      "jQuery"
+    ],
+    "server_side": [
+      "PHP/8.4.3",
+      "LiteSpeed"
+    ],
+    "final_url": "https://atozcyber.co.in/"
+  },
+  "security_headers": {
+    "strict-transport-security": {
+      "status": "missing"
+    },
+    "content-security-policy": {
+      "status": "present",
+      "value": "upgrade-insecure-requests"
+    },
+    "x-frame-options": {
+      "status": "missing"
+    },
+    "x-content-type-options": {
+      "status": "missing"
+    },
+    "referrer-policy": {
+      "status": "missing"
+    },
+    "permissions-policy": {
+      "status": "missing"
+    }
+  },
+  "whois": {
+    "whois": false,
+    "error": "[Errno 11002] getaddrinfo failed"
+  },
+  "ports": {
+    "80": {
+      "open": true,
+      "service": "http",
+      "banner": null
+    },
+    "443": {
+      "open": true,
+      "service": "https",
+      "banner": null
+    }
+  },
+  "ssl": {
+    "ok": true,
+    "cert": {
+      "subject": [
+        [
+          [
+            "commonName",
+            "atozcyber.co.in"
+          ]
+        ]
+      ],
+      "issuer": [
+        [
+          [
+            "countryName",
+            "US"
+          ]
+        ],
+        [
+          [
+            "organizationName",
+            "Let's Encrypt"
+          ]
+        ],
+        [
+          [
+            "commonName",
+            "R12"
+          ]
+        ]
+      ],
+      "notBefore": "Feb 21 21:06:33 2026 GMT",
+      "notAfter": "May 22 21:06:32 2026 GMT",
+      "serialNumber": "052694BF531199DD5B58F45062E1E47B85A0"
+    }
+  },
+  "tls_probe": {
+    "769": "not-supported",
+    "770": "not-supported",
+    "771": "supported",
+    "772": "supported"
+  },
+  "robots": {
+    "url": "https://atozcyber.co.in/robots.txt",
+    "status": 200,
+    "body": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://atozcyber.co.in/wp-sitemap.xml\n"
+  },
+  "ip_info": {
+    "ip-api": {
+      "status": "success",
+      "country": "India",
+      "regionName": "Maharashtra",
+      "city": "Mumbai",
+      "isp": "Hostinger International Limited",
+      "org": "SC \"Lithuanian Radio and TV Center\"",
+      "as": "AS47583 Hostinger International Limited",
+      "query": "89.117.188.160"
+    },
+    "ipwhois": {
+      "asn": "47583",
+      "asn_description": "AS-HOSTINGER, CY",
+      "network": {
+        "handle": "89.117.188.0 - 89.117.188.255",
+        "status": [
+          "active"
+        ],
+        "remarks": [
+          {
+            "title": null,
+            "description": "Geofeed https://raw.githubusercontent.com/hostinger/geofeed/main/geofeed.csv",
+            "links": null
+          }
+        ],
+        "notices": [
+          {
+            "title": "Filtered",
+            "description": "This output has been filtered.",
+            "links": null
+          },
+          {
+            "title": "Whois Inaccuracy Reporting",
+            "description": "If you see inaccuracies in the results, please visit:",
+            "links": [
+              "https://www.ripe.net/contact-form?topic=ripe_dbm&show_form=true"
+            ]
+          },
+          {
+            "title": "Source",
+            "description": "Objects returned came from source\nRIPE",
+            "links": null
+          },
+          {
+            "title": "Terms and Conditions",
+            "description": "This is the RIPE Database query service. The objects are in RDAP format.",
+            "links": [
+              "http://www.ripe.net/db/support/db-terms-conditions.pdf"
+            ]
+          }
+        ],
+        "links": [
+          "https://raw.githubusercontent.com/hostinger/geofeed/main/geofeed.csv",
+          "https://rdap.db.ripe.net/ips/rirSearch1/rdap-up/89.117.188.0%20-%2089.117.188.255",
+          "https://rdap.db.ripe.net/ips/rirSearch1/rdap-up/89.117.188.0%20-%2089.117.188.255?status=active",
+          "https://rdap.db.ripe.net/ips/rirSearch1/rdap-down/89.117.188.0%20-%2089.117.188.255",
+          "https://rdap.db.ripe.net/ips/rirSearch1/rdap-top/89.117.188.0%20-%2089.117.188.255",
+          "https://rdap.db.ripe.net/ips/rirSearch1/rdap-top/89.117.188.0%20-%2089.117.188.255?status=active",
+          "https://rdap.db.ripe.net/ips/rirSearch1/rdap-bottom/89.117.188.0%20-%2089.117.188.255",
+          "https://rdap.db.ripe.net/ip/89.117.188.160",
+          "http://www.ripe.net/data-tools/support/documentation/terms"
+        ],
+        "events": [
+          {
+            "action": "registration",
+            "timestamp": "2021-02-09T08:47:25Z",
+            "actor": null
+          },
+          {
+            "action": "last changed",
+            "timestamp": "2024-12-11T10:48:28Z",
+            "actor": null
+          }
+        ],
+        "raw": null,
+        "start_address": "89.117.188.0",
+        "end_address": "89.117.188.255",
+        "cidr": "89.117.188.0/24",
+        "ip_version": "v4",
+        "type": "ALLOCATED PA",
+        "name": "LT-LRTC-20060503",
+        "country": "LT",
+        "parent_handle": "0.0.0.0 - 255.255.255.255"
+      }
+    }
+  },
+  "reverse_dns": null,
+  "hosting_provider": "Hostinger International Limited",
+  "country": "India",
+  "reputation": {
+    "malicious_reports": false,
+    "notes": [],
+    "dnsbl": {
+      "listed": false,
+      "details": []
+    },
+    "whois": {
+      "registered_on": null,
+      "registrar": null
+    }
+  },
+  "email_security": {
+    "spf": null,
+    "dmarc": null,
+    "dkim": {
+      "default": false,
+      "selector1": false,
+      "google": false,
+      "mail": false,
+      "smtp": false,
+      "s1": false
+    },
+    "errors": [
+      "SPF Check Error: sequence item 0: expected str instance, bytes found",
+      "DMARC Check Error: sequence item 0: expected str instance, bytes found"
+    ]
+  },
+  "name_server_reputation": {
+    "ns_ips": {},
+    "ns_dnsbl": {}
+  },
+  "subdomains": [
+    "ftp.atozcyber.co.in",
+    "test.atozcyber.co.in",
+    "ftp.atozcyber.co.in"
+  ],
+  "risk_score": 0,
+  "risk_level": "Minimal",
+  "top_risk_factors": [],
+  "findings": [
+    {
+      "title": "Missing header: strict-transport-security",
+      "severity": "Low",
+      "evidence": null,
+      "why": "strict-transport-security helps mitigate specific risks",
+      "fix": "Add strict-transport-security with recommended configuration"
+    },
+    {
+      "title": "Missing header: x-frame-options",
+      "severity": "Low",
+      "evidence": null,
+      "why": "x-frame-options helps mitigate specific risks",
+      "fix": "Add x-frame-options with recommended configuration"
+    },
+    {
+      "title": "Missing header: x-content-type-options",
+      "severity": "Low",
+      "evidence": null,
+      "why": "x-content-type-options helps mitigate specific risks",
+      "fix": "Add x-content-type-options with recommended configuration"
+    },
+    {
+      "title": "Missing header: referrer-policy",
+      "severity": "Low",
+      "evidence": null,
+      "why": "referrer-policy helps mitigate specific risks",
+      "fix": "Add referrer-policy with recommended configuration"
+    },
+    {
+      "title": "Missing header: permissions-policy",
+      "severity": "Low",
+      "evidence": null,
+      "why": "permissions-policy helps mitigate specific risks",
+      "fix": "Add permissions-policy with recommended configuration"
+    }
+  ],
+  "virustotal": {
+    "success": true,
+    "stats": {
+      "malicious": 0,
+      "suspicious": 1,
+      "undetected": 31,
+      "harmless": 62,
+      "timeout": 0
+    },
+    "engines": [
+      {
+        "engine": "Acronis",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Abusix",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "ADMINUSLabs",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Lionic",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Criminal IP",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "AILabs (MONITORAPP)",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "AlienVault",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "alphaMountain.ai",
+        "category": "suspicious",
+        "result": "suspicious"
+      },
+      {
+        "engine": "AlphaSOC",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "Antiy-AVL",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "ArcSight Threat Intelligence",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "AutoShun",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "benkow.cc",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Bfore.Ai PreCrime",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "BitDefender",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Bkav",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "BlockList",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Blueliv",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Certego",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "ChainPatrol",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "Chong Lua Dao",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "CINS Army",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Snort IP sample list",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "Cluster25",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "CMC Threat Intelligence",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Xcitium Verdict Cloud",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "CRDF",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "CSIS Security Group",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "Cyan",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "Cyble",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "CyRadar",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "desenmascara.me",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "DNS8",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Dr.Web",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Emsisoft",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Ermes",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "ESET",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "ESTsecurity",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "EmergingThreats",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Fortinet",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "G-Data",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Google Safebrowsing",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "GCP Abuse Intelligence",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "GreenSnow",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "GreyNoise",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "Gridinsoft",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "Heimdal Security",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Hunt.io Intelligence",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "IPsum",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Juniper Networks",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Kaspersky",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Lumu",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "Malwared",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "MalwareURL",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "MalwarePatrol",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "malwares.com URL checker",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Mimecast",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "Netcraft",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "OpenPhish",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "0xSI_f33d",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "Phishing Database",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "PhishFort",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "PhishLabs",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "Phishtank",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "PREBYTES",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "PrecisionSec",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "Quick Heal",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Quttera",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Rising",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "SafeToOpen",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "Sangfor",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Sansec eComscan",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "Scantitan",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "SCUMWARE.org",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Seclookup",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "SOCRadar",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "Sophos",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Spam404",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "StopForumSpam",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Sucuri SiteCheck",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "securolytics",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "ThreatHive",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Trustwave",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "URLhaus",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "URLQuery",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "Viettel Threat Intelligence",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "VIPRE",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "ViriBack",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "VX Vault",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Webroot",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "Forcepoint ThreatSeeker",
+        "category": "undetected",
+        "result": "unrated"
+      },
+      {
+        "engine": "Yandex Safebrowsing",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "ZeroCERT",
+        "category": "harmless",
+        "result": "clean"
+      },
+      {
+        "engine": "ZeroFox",
+        "category": "undetected",
+        "result": "unrated"
+      }
+    ],
+    "permalink": "",
+    "last_analysis_date": 1772176027
+  },
+  "abuseipdb": {
+    "error": "AbuseIPDB scan is only supported for IP addresses."
+  },
+  "alienvault": {
+    "success": true,
+    "indicator": "atozcyber.co.in",
+    "type": "domain",
+    "reputation": 0,
+    "pulse_count": 0,
+    "pulses": [],
+    "permalink": "https://otx.alienvault.com/indicator/domain/atozcyber.co.in"
+  },
+  "urlscan": {
+    "success": true,
+    "task_url": "http://atozcyber.co.in/",
+    "date": "2026-02-27T07:04:50.472Z",
+    "score": 0,
+    "malicious": false,
+    "tags": [],
+    "country": "IN",
+    "server": "LiteSpeed",
+    "ip": "2a02:4780:11:1048:0:3811:19ef:2",
+    "asn": "AS47583",
+    "asnname": "AS-HOSTINGER Hostinger International Limited, CY",
+    "certificates": [
+      {
+        "subjectName": "atozcyber.co.in",
+        "issuer": "R12",
+        "validFrom": 1771707993,
+        "validTo": 1779483992
+      },
+      {
+        "subjectName": "upload.video.google.com",
+        "issuer": "WE2",
+        "validFrom": 1770021487,
+        "validTo": 1777279086
+      },
+      {
+        "subjectName": "wp.com",
+        "issuer": "E7",
+        "validFrom": 1770061489,
+        "validTo": 1777837488
+      },
+      {
+        "subjectName": "*.gstatic.com",
+        "issuer": "WE2",
+        "validFrom": 1770021487,
+        "validTo": 1777279086
+      },
+      {
+        "subjectName": "tawk.to",
+        "issuer": "WE1",
+        "validFrom": 1767685857,
+        "validTo": 1775465449
+      }
+    ],
+    "permalink": "https://urlscan.io/result/019c9de9-f5b7-7726-98e4-b6229b60d81c/"
+  },
+  "google_safe_browsing": {
+    "success": true,
+    "malicious": false,
+    "message": "No threats found by Google Safe Browsing.",
+    "permalink": "https://transparencyreport.google.com/safe-browsing/search?url=atozcyber.co.in"
+  }
+}
