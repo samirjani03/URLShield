@@ -1,1 +1,0 @@
-where is scan button? that's the main thing, how do i scan this? also check for its backend in entire codebase. check it and troubleshoot it
