@@ -31,29 +31,6 @@ When a user submits a URL or IP:
 
 ---
 
-## 📦 Project Structure
-
-```
-url-ip-scanner/
-│
-├── app/
-│   ├── main.py
-│   ├── services/
-│   │   ├── virustotal.py
-│   │   ├── abuseipdb.py
-│   │   ├── alienvault.py
-│   │   ├── urlscan.py
-│   │   └── google_safe_browsing.py
-│   ├── utils/
-│   │   └── helpers.py
-│
-├── .env
-├── requirements.txt
-└── README.md
-```
-
----
-
 # 🛠️ Installation Guide (From Scratch)
 
 Follow these steps exactly.
@@ -71,7 +48,7 @@ Follow these steps exactly.
 
 ```bash
 git clone https://github.com/yourusername/url-ip-scanner.git
-cd url-ip-scanner
+cd URLShield
 ```
 
 ---
